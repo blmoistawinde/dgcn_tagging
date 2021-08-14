@@ -1,0 +1,3845 @@
+{
+    "000d0fcc53574582eb68b6ce40c69a6a5879b03d": {
+        "oid": "000d0fcc53574582eb68b6ce40c69a6a5879b03d",
+        "verbs": "be",
+        "skeleton_words_clean": "be whining",
+        "skeleton_words": "that be whining",
+        "words": "that be whining",
+        "pattern": "s-be-a",
+        "frequency": 9.0
+    },
+    "00957c160883e8999a229d72f827dafbfaeda250": {
+        "oid": "00957c160883e8999a229d72f827dafbfaeda250",
+        "verbs": "be",
+        "skeleton_words_clean": "other be human",
+        "skeleton_words": "other be human",
+        "words": "the other be human",
+        "pattern": "s-be-a",
+        "frequency": 23.0
+    },
+    "00c6ccae07771c228a0be367b9b6e518eb896abb": {
+        "oid": "00c6ccae07771c228a0be367b9b6e518eb896abb",
+        "verbs": "continue",
+        "skeleton_words_clean": "speech continue",
+        "skeleton_words": "speech continue",
+        "words": "speech continue",
+        "pattern": "s-v",
+        "frequency": 19.0
+    },
+    "00fa1ac184986295dbfedf33f762c4a1ad7a5231": {
+        "oid": "00fa1ac184986295dbfedf33f762c4a1ad7a5231",
+        "verbs": "bang",
+        "skeleton_words_clean": "machinery bang",
+        "skeleton_words": "machinery bang",
+        "words": "machinery bang",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "00fcbe09726a73f27783b5288bb4ca47440c4afa": {
+        "oid": "00fcbe09726a73f27783b5288bb4ca47440c4afa",
+        "verbs": "honk",
+        "skeleton_words_clean": "alarm honk",
+        "skeleton_words": "alarm honk",
+        "words": "car alarm honk",
+        "pattern": "s-v",
+        "frequency": 17.0
+    },
+    "017cfac9fa2b10b675cd48748cf2e8c97aac5a81": {
+        "oid": "017cfac9fa2b10b675cd48748cf2e8c97aac5a81",
+        "verbs": "be",
+        "skeleton_words_clean": "speech be speech",
+        "skeleton_words": "speech be speech",
+        "words": "hate speech be free speech",
+        "pattern": "s-be-a",
+        "frequency": 39.0
+    },
+    "01a1319d275b70aa827e1030eae4826f53db07c2": {
+        "oid": "01a1319d275b70aa827e1030eae4826f53db07c2",
+        "verbs": "pile",
+        "skeleton_words_clean": "stock pile",
+        "skeleton_words": "stock pile",
+        "words": "stock pile",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "02469ff644bd0247c74fc6e2d2ce0dd56cd79ab0": {
+        "oid": "02469ff644bd0247c74fc6e2d2ce0dd56cd79ab0",
+        "verbs": "be",
+        "skeleton_words_clean": "target be stationary",
+        "skeleton_words": "target be stationary",
+        "words": "target be stationary",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "03f6305d245f63ca31648ed68df59999bbbb05e8": {
+        "oid": "03f6305d245f63ca31648ed68df59999bbbb05e8",
+        "verbs": "continue",
+        "skeleton_words_clean": "horn continue",
+        "skeleton_words": "horn continue",
+        "words": "car horn continue",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "05cca776f8b127ba7d26b7eef13fb830d83595f5": {
+        "oid": "05cca776f8b127ba7d26b7eef13fb830d83595f5",
+        "verbs": "continue",
+        "skeleton_words_clean": "alarm continue",
+        "skeleton_words": "alarm continue",
+        "words": "car alarm continue",
+        "pattern": "s-v",
+        "frequency": 39.0
+    },
+    "0663ede8748fb08d5ea87ac07b8490c808b05e26": {
+        "oid": "0663ede8748fb08d5ea87ac07b8490c808b05e26",
+        "verbs": "continue",
+        "skeleton_words_clean": "music continue",
+        "skeleton_words": "music continue",
+        "words": "music pretty woman music music music continue",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "0816afe91c86bdc9b8b784bc89c1552f1813179a": {
+        "oid": "0816afe91c86bdc9b8b784bc89c1552f1813179a",
+        "verbs": "eat",
+        "skeleton_words_clean": "dog eat dog",
+        "skeleton_words": "dog eat dog",
+        "words": "dog eat dog",
+        "pattern": "s-v-o",
+        "frequency": 309.0
+    },
+    "08a57d119e17d244cb869c1025339ead48369391": {
+        "oid": "08a57d119e17d244cb869c1025339ead48369391",
+        "verbs": "be",
+        "skeleton_words_clean": "be unknown",
+        "skeleton_words": "it be unknown",
+        "words": "it be unknown",
+        "pattern": "s-be-a",
+        "frequency": 3814.0
+    },
+    "08ac642833faff71b3372dcf34764f71a6f2d39e": {
+        "oid": "08ac642833faff71b3372dcf34764f71a6f2d39e",
+        "verbs": "hoe",
+        "skeleton_words_clean": "hwang hoe",
+        "skeleton_words": "hwang hoe",
+        "words": "hwang hoe",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "09177128c772152549c942c911e202deeacf2b18": {
+        "oid": "09177128c772152549c942c911e202deeacf2b18",
+        "verbs": "alert",
+        "skeleton_words_clean": "news alert",
+        "skeleton_words": "news alert",
+        "words": "news alert",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "09460fa4a166ae8fd0e8d4262968efdbf773f729": {
+        "oid": "09460fa4a166ae8fd0e8d4262968efdbf773f729",
+        "verbs": "horn",
+        "skeleton_words_clean": "car horn honking",
+        "skeleton_words": "car horn honking",
+        "words": "car horn honking",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "09553e668168d9619804a0806c81b82e388502b6": {
+        "oid": "09553e668168d9619804a0806c81b82e388502b6",
+        "verbs": "voice",
+        "skeleton_words_clean": "other voice concern",
+        "skeleton_words": "other voice concern",
+        "words": "other voice concern",
+        "pattern": "s-v-o",
+        "frequency": 9.0
+    },
+    "09a4928f980cb5e61fbb8ba6eca0363f1c4b72d4": {
+        "oid": "09a4928f980cb5e61fbb8ba6eca0363f1c4b72d4",
+        "verbs": "be",
+        "skeleton_words_clean": "brian be stationary",
+        "skeleton_words": "brian be stationary",
+        "words": "brian be stationary",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "0b55ebcf874b0d094cd33e6c0430cc8e4ca3c466": {
+        "oid": "0b55ebcf874b0d094cd33e6c0430cc8e4ca3c466",
+        "verbs": "tire",
+        "skeleton_words_clean": "horn tire",
+        "skeleton_words": "horn tire",
+        "words": "car horn tire",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "0cfd0f8d23d6a23b57f5965b3d16261774f403cf": {
+        "oid": "0cfd0f8d23d6a23b57f5965b3d16261774f403cf",
+        "verbs": "shout",
+        "skeleton_words_clean": "all shout",
+        "skeleton_words": "all shout",
+        "words": "all shout",
+        "pattern": "s-v",
+        "frequency": 2700.0
+    },
+    "0d22a531c0308572b373c10239cd24278b2173cd": {
+        "oid": "0d22a531c0308572b373c10239cd24278b2173cd",
+        "verbs": "wail",
+        "skeleton_words_clean": "alarm wail",
+        "skeleton_words": "alarm wail",
+        "words": "car alarm wail",
+        "pattern": "s-v",
+        "frequency": 304.0
+    },
+    "0d47e7dc0c4ce9ece41fb4dc522b8df3c3784a8e": {
+        "oid": "0d47e7dc0c4ce9ece41fb4dc522b8df3c3784a8e",
+        "verbs": "sound",
+        "skeleton_words_clean": "alert sound",
+        "skeleton_words": "alert sound",
+        "words": "alert sound",
+        "pattern": "s-v",
+        "frequency": 10.0
+    },
+    "0eb3772d403af9ff9bd74648f9120886bb8144a5": {
+        "oid": "0eb3772d403af9ff9bd74648f9120886bb8144a5",
+        "verbs": "roar",
+        "skeleton_words_clean": "engine roar",
+        "skeleton_words": "engine roar",
+        "words": "engine roar",
+        "pattern": "s-v",
+        "frequency": 1476.0
+    },
+    "0f38983175a34ed8d05c0c5b3761e8e9ee332ccb": {
+        "oid": "0f38983175a34ed8d05c0c5b3761e8e9ee332ccb",
+        "verbs": "be",
+        "skeleton_words_clean": "be person",
+        "skeleton_words": "i be person",
+        "words": "i be a small person",
+        "pattern": "s-be-a",
+        "frequency": 112.0
+    },
+    "0f633e539c289c3d29505cc6539d1d427b167013": {
+        "oid": "0f633e539c289c3d29505cc6539d1d427b167013",
+        "verbs": "build",
+        "skeleton_words_clean": "build from source",
+        "skeleton_words": "you build from source",
+        "words": "you build from source",
+        "pattern": "s-v-X-o",
+        "frequency": 5.0
+    },
+    "101ae7acf6ec4c0b876f9e4cbbd69340abef1332": {
+        "oid": "101ae7acf6ec4c0b876f9e4cbbd69340abef1332",
+        "verbs": "cage",
+        "skeleton_words_clean": "slam cage barking",
+        "skeleton_words": "slam cage barking",
+        "words": "slam cage door barking",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "1088d51321806b31531e8288dc88181105bbe656": {
+        "oid": "1088d51321806b31531e8288dc88181105bbe656",
+        "verbs": "see",
+        "skeleton_words_clean": "see medium",
+        "skeleton_words": "i see medium",
+        "words": "i have see medium",
+        "pattern": "s-v-o",
+        "frequency": 9.0
+    },
+    "1099bb7e4f6cfb42d5236ab139efd76ce015755f": {
+        "oid": "1099bb7e4f6cfb42d5236ab139efd76ce015755f",
+        "verbs": "continue",
+        "skeleton_words_clean": "music continue music",
+        "skeleton_words": "music continue music",
+        "words": "music music continue music",
+        "pattern": "s-v-o",
+        "frequency": 10.0
+    },
+    "11b11d0a607748878994bf446f554868968019dc": {
+        "oid": "11b11d0a607748878994bf446f554868968019dc",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert",
+        "skeleton_words": "i alert",
+        "words": "i be alert",
+        "pattern": "spass-v",
+        "frequency": 143.0
+    },
+    "11e0dc9b52bf982965eceda7d01c8b72386484e2": {
+        "oid": "11e0dc9b52bf982965eceda7d01c8b72386484e2",
+        "verbs": "hoe",
+        "skeleton_words_clean": "hoe",
+        "skeleton_words": "it hoe",
+        "words": "it hoe",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "123ba0c9e3927f79fd34bda3bfbb28867f7e07c2": {
+        "oid": "123ba0c9e3927f79fd34bda3bfbb28867f7e07c2",
+        "verbs": "source",
+        "skeleton_words_clean": "detail source from collection",
+        "skeleton_words": "detail source from collection",
+        "words": "music video personnel detail be source from sakanaction music video collection",
+        "pattern": "spass-v-X-o",
+        "frequency": 7.0
+    },
+    "12d0b787ca59aa9586bc6d0435c5b03545c203a9": {
+        "oid": "12d0b787ca59aa9586bc6d0435c5b03545c203a9",
+        "verbs": "turn",
+        "skeleton_words_clean": "engine turn",
+        "skeleton_words": "engine turn",
+        "words": "engine turn over",
+        "pattern": "s-v",
+        "frequency": 4279.0
+    },
+    "131a5cd594725c8d3995ba43b1f2e27f01346a33": {
+        "oid": "131a5cd594725c8d3995ba43b1f2e27f01346a33",
+        "verbs": "start",
+        "skeleton_words_clean": "engine start rev",
+        "skeleton_words": "engine start rev",
+        "words": "engine start engine rev",
+        "pattern": "s-v-o",
+        "frequency": 13.0
+    },
+    "1372f14dd23ca50eec909bcd443086460bc2f729": {
+        "oid": "1372f14dd23ca50eec909bcd443086460bc2f729",
+        "verbs": "whir",
+        "skeleton_words_clean": "machinery whir",
+        "skeleton_words": "machinery whir",
+        "words": "machinery whir",
+        "pattern": "s-v",
+        "frequency": 283.0
+    },
+    "139b2f40d23a3e1117789d7a87118b42c064fe0b": {
+        "oid": "139b2f40d23a3e1117789d7a87118b42c064fe0b",
+        "verbs": "pick",
+        "skeleton_words_clean": "pick truck",
+        "skeleton_words": "you pick truck",
+        "words": "you pick a ice cream truck",
+        "pattern": "s-v-o",
+        "frequency": 22.0
+    },
+    "14afddd41c6ababd457774f57115cd6ec1ecd937": {
+        "oid": "14afddd41c6ababd457774f57115cd6ec1ecd937",
+        "verbs": "growl",
+        "skeleton_words_clean": "dog growl",
+        "skeleton_words": "dog growl",
+        "words": "dog growl",
+        "pattern": "s-v",
+        "frequency": 1166.0
+    },
+    "14f9499acc444dbbf3b8cd2ce79d9c48944c0631": {
+        "oid": "14f9499acc444dbbf3b8cd2ce79d9c48944c0631",
+        "verbs": "chime",
+        "skeleton_words_clean": "alarm chime",
+        "skeleton_words": "alarm chime",
+        "words": "car alarm chime",
+        "pattern": "s-v",
+        "frequency": 23.0
+    },
+    "15376c4ef995cbe4c50d47e12047ca0822d48c93": {
+        "oid": "15376c4ef995cbe4c50d47e12047ca0822d48c93",
+        "verbs": "sound",
+        "skeleton_words_clean": "horn sound",
+        "skeleton_words": "horn sound",
+        "words": "car horn sound",
+        "pattern": "s-v",
+        "frequency": 16.0
+    },
+    "15f484aea1142e3ff69dfeb372e656091587d658": {
+        "oid": "15f484aea1142e3ff69dfeb372e656091587d658",
+        "verbs": "be",
+        "skeleton_words_clean": "impact be unknown",
+        "skeleton_words": "impact be unknown",
+        "words": "the impact be unknown",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "1617f4412e324609e3563f2765c3f251a9b4e968": {
+        "oid": "1617f4412e324609e3563f2765c3f251a9b4e968",
+        "verbs": "clunk",
+        "skeleton_words_clean": "machinery clunk",
+        "skeleton_words": "machinery clunk",
+        "words": "machinery clunk",
+        "pattern": "s-v",
+        "frequency": 10.0
+    },
+    "17190e9b77a5aa3f153028355115f1bdc7c1af1e": {
+        "oid": "17190e9b77a5aa3f153028355115f1bdc7c1af1e",
+        "verbs": "follow",
+        "skeleton_words_clean": "dog follow dog",
+        "skeleton_words": "dog follow dog",
+        "words": "dog follow dog",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "176cc52a15c9c3ee9170671a92fd42b775469f07": {
+        "oid": "176cc52a15c9c3ee9170671a92fd42b775469f07",
+        "verbs": "be",
+        "skeleton_words_clean": "be speech",
+        "skeleton_words": "be speech",
+        "words": "here be the speech",
+        "pattern": "s-v",
+        "frequency": 72.0
+    },
+    "19a9970a42d0a00ba482c54f080074c4a011181f": {
+        "oid": "19a9970a42d0a00ba482c54f080074c4a011181f",
+        "verbs": "clatter",
+        "skeleton_words_clean": "machinery clatter",
+        "skeleton_words": "machinery clatter",
+        "words": "machinery clatter",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "1ab269f02a2af2059f0e85f88ac960e53385d475": {
+        "oid": "1ab269f02a2af2059f0e85f88ac960e53385d475",
+        "verbs": "resume",
+        "skeleton_words_clean": "music resume",
+        "skeleton_words": "music resume",
+        "words": "music resume",
+        "pattern": "s-v",
+        "frequency": 805.0
+    },
+    "1b7fc9d072ec338dea9ff7c76daa07e996b00eed": {
+        "oid": "1b7fc9d072ec338dea9ff7c76daa07e996b00eed",
+        "verbs": "growl",
+        "skeleton_words_clean": "music growl",
+        "skeleton_words": "music growl",
+        "words": "music music growl",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "1c041630b1630c906a7f55bed68154282fc34775": {
+        "oid": "1c041630b1630c906a7f55bed68154282fc34775",
+        "verbs": "be",
+        "skeleton_words_clean": "be voice",
+        "skeleton_words": "that be voice",
+        "words": "that be a human voice",
+        "pattern": "s-be-a",
+        "frequency": 7.0
+    },
+    "1c80d65240264ae40232ab9d7d103428fac6712e": {
+        "oid": "1c80d65240264ae40232ab9d7d103428fac6712e",
+        "verbs": "seem",
+        "skeleton_words_clean": "seem uncertain",
+        "skeleton_words": "they seem uncertain",
+        "words": "they seem uncertain",
+        "pattern": "s-v-a",
+        "frequency": 5.0
+    },
+    "1cc0f17012e579e5f1f598227bef3fc629a246c0": {
+        "oid": "1cc0f17012e579e5f1f598227bef3fc629a246c0",
+        "verbs": "be",
+        "skeleton_words_clean": "phoenix be stationary",
+        "skeleton_words": "phoenix be stationary",
+        "words": "phoenix be stationary",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "1cd99ad03c4b1a3a5d5f205af9e4a4ec1acd27d1": {
+        "oid": "1cd99ad03c4b1a3a5d5f205af9e4a4ec1acd27d1",
+        "verbs": "be",
+        "skeleton_words_clean": "be small to bird",
+        "skeleton_words": "they be small to bird",
+        "words": "they be small to medium size bird",
+        "pattern": "s-v-a-X-o",
+        "frequency": 23.0
+    },
+    "1cde6a65704ab86cb29b8a01c9ee040069aeb7e0": {
+        "oid": "1cde6a65704ab86cb29b8a01c9ee040069aeb7e0",
+        "verbs": "blare",
+        "skeleton_words_clean": "horn blare",
+        "skeleton_words": "horn blare",
+        "words": "horn blare",
+        "pattern": "s-v",
+        "frequency": 3366.0
+    },
+    "1d364a82759f26332b6d3701fb9a960253ed4f97": {
+        "oid": "1d364a82759f26332b6d3701fb9a960253ed4f97",
+        "verbs": "pour drill",
+        "skeleton_words_clean": "pour drill in rock",
+        "skeleton_words": "pour drill in rock",
+        "words": "pour drill in the rock above",
+        "pattern": "s-v-X-o",
+        "frequency": 5.0
+    },
+    "1de9d3b27f51eb8ecabfedcc3c0a94bd1110d42d": {
+        "oid": "1de9d3b27f51eb8ecabfedcc3c0a94bd1110d42d",
+        "verbs": "jackhammer stop",
+        "skeleton_words_clean": "jackhammer stop",
+        "skeleton_words": "jackhammer stop",
+        "words": "jackhammer stop",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "1e3fb39729ea04003c4c576999cae7c88b9d1e77": {
+        "oid": "1e3fb39729ea04003c4c576999cae7c88b9d1e77",
+        "verbs": "mimic",
+        "skeleton_words_clean": "ford mimic horn",
+        "skeleton_words": "ford mimic horn",
+        "words": "ford mimic car car horn",
+        "pattern": "s-v-o",
+        "frequency": 16.0
+    },
+    "1eb058804d4e770c36c7659dd44eb3558f6b1e47": {
+        "oid": "1eb058804d4e770c36c7659dd44eb3558f6b1e47",
+        "verbs": "be",
+        "skeleton_words_clean": "hoe be hoe",
+        "skeleton_words": "hoe be hoe",
+        "words": "hoe be hoe",
+        "pattern": "s-be-a",
+        "frequency": 9.0
+    },
+    "1ec0b5debcf135f4a09851c9f802256f37e63f1c": {
+        "oid": "1ec0b5debcf135f4a09851c9f802256f37e63f1c",
+        "verbs": "stop",
+        "skeleton_words_clean": "music stop",
+        "skeleton_words": "music stop",
+        "words": "music stop",
+        "pattern": "s-v",
+        "frequency": 9268.0
+    },
+    "2075b75782aaa3397ecb6be4a5c5271da4317aa2": {
+        "oid": "2075b75782aaa3397ecb6be4a5c5271da4317aa2",
+        "verbs": "be",
+        "skeleton_words_clean": "be uncertain",
+        "skeleton_words": "it be uncertain",
+        "words": "it be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 1793.0
+    },
+    "22e672540ebcacbc49c895b697f83ca347c9cbd0": {
+        "oid": "22e672540ebcacbc49c895b697f83ca347c9cbd0",
+        "verbs": "be",
+        "skeleton_words_clean": "submission be music",
+        "skeleton_words": "submission be music",
+        "words": "video submission be not music",
+        "pattern": "s-be-a",
+        "frequency": 5413.0
+    },
+    "230a009030910547d5f812980a72293d43239159": {
+        "oid": "230a009030910547d5f812980a72293d43239159",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert other",
+        "skeleton_words": "it alert other",
+        "words": "it will alert the other",
+        "pattern": "s-v-o",
+        "frequency": 8.0
+    },
+    "24252f74455fa966fb0f1e94be9dad1e3a1f410e": {
+        "oid": "24252f74455fa966fb0f1e94be9dad1e3a1f410e",
+        "verbs": "stop",
+        "skeleton_words_clean": "alarm stop",
+        "skeleton_words": "alarm stop",
+        "words": "car alarm stop",
+        "pattern": "s-v",
+        "frequency": 52.0
+    },
+    "2461db6d8e32b8045f938f211b4d2f4807304f79": {
+        "oid": "2461db6d8e32b8045f938f211b4d2f4807304f79",
+        "verbs": "be",
+        "skeleton_words_clean": "music be music",
+        "skeleton_words": "music be music",
+        "words": "music be music",
+        "pattern": "s-be-a",
+        "frequency": 89.0
+    },
+    "24cec6e798ca432eec7c7b5f7d08646b977ec389": {
+        "oid": "24cec6e798ca432eec7c7b5f7d08646b977ec389",
+        "verbs": "have",
+        "skeleton_words_clean": "have crowd",
+        "skeleton_words": "we have crowd",
+        "words": "we have a large crowd",
+        "pattern": "s-v-o",
+        "frequency": 10.0
+    },
+    "25593f129940cd8a0cc1b5b2796907c98ada35a7": {
+        "oid": "25593f129940cd8a0cc1b5b2796907c98ada35a7",
+        "verbs": "continue",
+        "skeleton_words_clean": "siren continue",
+        "skeleton_words": "siren continue",
+        "words": "siren continue",
+        "pattern": "s-v",
+        "frequency": 782.0
+    },
+    "25a60ccbd42f3d7ebd5fbc3c0661e2ab52fd8a79": {
+        "oid": "25a60ccbd42f3d7ebd5fbc3c0661e2ab52fd8a79",
+        "verbs": "act",
+        "skeleton_words_clean": "speech act",
+        "skeleton_words": "speech act",
+        "words": "speech act",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "266a50e23976689c5f5e3f50cba1e55c2d7f65a8": {
+        "oid": "266a50e23976689c5f5e3f50cba1e55c2d7f65a8",
+        "verbs": "rattle",
+        "skeleton_words_clean": "jackhammer rattle",
+        "skeleton_words": "jackhammer rattle",
+        "words": "jackhammer rattle",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "26841521abc6a3f5235117fd0aa5ffae03badabb": {
+        "oid": "26841521abc6a3f5235117fd0aa5ffae03badabb",
+        "verbs": "see",
+        "skeleton_words_clean": "medium see",
+        "skeleton_words": "medium see",
+        "words": "a medium see",
+        "pattern": "s-v",
+        "frequency": 11.0
+    },
+    "26c5fa20427c170b7a7ea76d907d5d596df644fe": {
+        "oid": "26c5fa20427c170b7a7ea76d907d5d596df644fe",
+        "verbs": "run",
+        "skeleton_words_clean": "jackhammer run",
+        "skeleton_words": "jackhammer run",
+        "words": "jackhammer run",
+        "pattern": "s-v",
+        "frequency": 25.0
+    },
+    "27575ea1ecb4fa0938740283c3bc4411e8716485": {
+        "oid": "27575ea1ecb4fa0938740283c3bc4411e8716485",
+        "verbs": "be",
+        "skeleton_words_clean": "information be uncertain",
+        "skeleton_words": "information be uncertain",
+        "words": "information be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 7.0
+    },
+    "27b71c12796ee73042bd1abc6299cba6dfaf6298": {
+        "oid": "27b71c12796ee73042bd1abc6299cba6dfaf6298",
+        "verbs": "saw continue",
+        "skeleton_words_clean": "saw continue",
+        "skeleton_words": "saw continue",
+        "words": "saw continue",
+        "pattern": "s-v",
+        "frequency": 14.0
+    },
+    "27f0e8a9628f88249b9b2b572c8ef2d982f01b6c": {
+        "oid": "27f0e8a9628f88249b9b2b572c8ef2d982f01b6c",
+        "verbs": "be",
+        "skeleton_words_clean": "be uncertain",
+        "skeleton_words": "you be uncertain",
+        "words": "you be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 284.0
+    },
+    "2816bd0c48ea4eef6f0adef7eb90e33103c73e80": {
+        "oid": "2816bd0c48ea4eef6f0adef7eb90e33103c73e80",
+        "verbs": "come",
+        "skeleton_words_clean": "barking come",
+        "skeleton_words": "barking come",
+        "words": "dog barking come here",
+        "pattern": "s-v",
+        "frequency": 9.0
+    },
+    "2994779a665447ba969778cf6d44aeab65fb5a1e": {
+        "oid": "2994779a665447ba969778cf6d44aeab65fb5a1e",
+        "verbs": "pile",
+        "skeleton_words_clean": "pile",
+        "skeleton_words": "they pile",
+        "words": "they pile",
+        "pattern": "spass-v",
+        "frequency": 30.0
+    },
+    "29c72946f1700bb285e5b7d1ca07fb1da33102d3": {
+        "oid": "29c72946f1700bb285e5b7d1ca07fb1da33102d3",
+        "verbs": "resonate",
+        "skeleton_words_clean": "voice resonate from anything",
+        "skeleton_words": "voice resonate from anything",
+        "words": "the human voice resonate differently from anything",
+        "pattern": "s-v-X-o",
+        "frequency": 7.0
+    },
+    "29ce14c71c3fa9aad0a69b9155687693540ac24d": {
+        "oid": "29ce14c71c3fa9aad0a69b9155687693540ac24d",
+        "verbs": "find",
+        "skeleton_words_clean": "find saw",
+        "skeleton_words": "you find saw",
+        "words": "you can find the other saw",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "29ef032726eee7a5dd40da2e28ec5c8e8867d49d": {
+        "oid": "29ef032726eee7a5dd40da2e28ec5c8e8867d49d",
+        "verbs": "be",
+        "skeleton_words_clean": "voice be different from sound",
+        "skeleton_words": "voice be different from sound",
+        "words": "the human voice be different from other sound",
+        "pattern": "s-v-a-X-o",
+        "frequency": 16.0
+    },
+    "2aec46ec72d73ecd3be35d3bfe05f05e3bfa7464": {
+        "oid": "2aec46ec72d73ecd3be35d3bfe05f05e3bfa7464",
+        "verbs": "reverse",
+        "skeleton_words_clean": "situation reverse",
+        "skeleton_words": "situation reverse",
+        "words": "the situation be reverse",
+        "pattern": "spass-v",
+        "frequency": 551.0
+    },
+    "2afd5f65123b9d06ce5a106cc98d1273f27d6995": {
+        "oid": "2afd5f65123b9d06ce5a106cc98d1273f27d6995",
+        "verbs": "activate",
+        "skeleton_words_clean": "alarm activate",
+        "skeleton_words": "alarm activate",
+        "words": "car alarm activate",
+        "pattern": "s-v",
+        "frequency": 25.0
+    },
+    "2bcda3a86aeecf1b684de963b715d885235bb290": {
+        "oid": "2bcda3a86aeecf1b684de963b715d885235bb290",
+        "verbs": "hoe",
+        "skeleton_words_clean": "hoe",
+        "skeleton_words": "we hoe",
+        "words": "we hoe",
+        "pattern": "s-v",
+        "frequency": 10.0
+    },
+    "2bd4752e1dee53a99d76e5553760c51354b902ad": {
+        "oid": "2bd4752e1dee53a99d76e5553760c51354b902ad",
+        "verbs": "be",
+        "skeleton_words_clean": "be small to bird",
+        "skeleton_words": "they be small to bird",
+        "words": "they be small to medium size bird short",
+        "pattern": "s-v-a-X-o",
+        "frequency": 171.0
+    },
+    "2c1c3ddc21bfa72b9a422d59f500aa3f198159d9": {
+        "oid": "2c1c3ddc21bfa72b9a422d59f500aa3f198159d9",
+        "verbs": "be",
+        "skeleton_words_clean": "be uncertain of meaning",
+        "skeleton_words": "i be uncertain of meaning",
+        "words": "i be uncertain of lordship meaning",
+        "pattern": "s-v-a-X-o",
+        "frequency": 10.0
+    },
+    "2deb73ba74e932eeda09cbfb56835f35a878765e": {
+        "oid": "2deb73ba74e932eeda09cbfb56835f35a878765e",
+        "verbs": "say",
+        "skeleton_words_clean": "driver say",
+        "skeleton_words": "driver say",
+        "words": "driver say",
+        "pattern": "s-v",
+        "frequency": 241.0
+    },
+    "2e78e74c57658cc9704f9e8206494c817c1669e3": {
+        "oid": "2e78e74c57658cc9704f9e8206494c817c1669e3",
+        "verbs": "drill",
+        "skeleton_words_clean": "'s drill",
+        "skeleton_words": "'s drill",
+        "words": "'s drill",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "2e8e4de63423e01fac64af7b48783f770f635b54": {
+        "oid": "2e8e4de63423e01fac64af7b48783f770f635b54",
+        "verbs": "saw",
+        "skeleton_words_clean": "thunder saw",
+        "skeleton_words": "thunder saw",
+        "words": "thunder saw",
+        "pattern": "s-v",
+        "frequency": 27.0
+    },
+    "2f447c69178fbb64ea790afa14ea324c51d137cc": {
+        "oid": "2f447c69178fbb64ea790afa14ea324c51d137cc",
+        "verbs": "fly",
+        "skeleton_words_clean": "fly eye",
+        "skeleton_words": "we fly eye",
+        "words": "we fly hoe jet hoe eye",
+        "pattern": "s-v-o",
+        "frequency": 14.0
+    },
+    "2fa553ef919faa2cbbc633b771b0cfca8d103c33": {
+        "oid": "2fa553ef919faa2cbbc633b771b0cfca8d103c33",
+        "verbs": "get",
+        "skeleton_words_clean": "ta get jackhammer",
+        "skeleton_words": "ta get jackhammer",
+        "words": "ta get a jackhammer",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "3081ce83b233c89e4823bb28055c7993a24f1d8d": {
+        "oid": "3081ce83b233c89e4823bb28055c7993a24f1d8d",
+        "verbs": "grow",
+        "skeleton_words_clean": "siren grow",
+        "skeleton_words": "siren grow",
+        "words": "siren grow",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "335901b2945ac9fb1f04a979fec641524d08792a": {
+        "oid": "335901b2945ac9fb1f04a979fec641524d08792a",
+        "verbs": "be",
+        "skeleton_words_clean": "talk be small",
+        "skeleton_words": "talk be small",
+        "words": "small talk be too small",
+        "pattern": "s-be-a",
+        "frequency": 6.0
+    },
+    "370b6f7eb70f0bf621c72986562a1c06a2fc2e34": {
+        "oid": "370b6f7eb70f0bf621c72986562a1c06a2fc2e34",
+        "verbs": "fade",
+        "skeleton_words_clean": "music fade",
+        "skeleton_words": "music fade",
+        "words": "music fade",
+        "pattern": "s-v",
+        "frequency": 1024.0
+    },
+    "3719f7c4c40a6be84520bc722eab93bd3dd1ec4e": {
+        "oid": "3719f7c4c40a6be84520bc722eab93bd3dd1ec4e",
+        "verbs": "tell",
+        "skeleton_words_clean": "tell crowd",
+        "skeleton_words": "he tell crowd",
+        "words": "he tell a large crowd",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "37ded207b264192a3ff90ccf429ff5132f507b4d": {
+        "oid": "37ded207b264192a3ff90ccf429ff5132f507b4d",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert other",
+        "skeleton_words": "that alert other",
+        "words": "that will alert the other",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "38580b97d2b583affbc2a9d38141b1f5be6daa77": {
+        "oid": "38580b97d2b583affbc2a9d38141b1f5be6daa77",
+        "verbs": "pile",
+        "skeleton_words_clean": "pile",
+        "skeleton_words": "i pile",
+        "words": "i pile",
+        "pattern": "s-v",
+        "frequency": 14.0
+    },
+    "39ed574fef8fb831e5f590cfe1bb5dab64f2a74c": {
+        "oid": "39ed574fef8fb831e5f590cfe1bb5dab64f2a74c",
+        "verbs": "break",
+        "skeleton_words_clean": "voice break",
+        "skeleton_words": "voice break",
+        "words": "voice break",
+        "pattern": "s-v",
+        "frequency": 1107.0
+    },
+    "3a59074f2ec01a8000bdd351953c61c32b58dbdf": {
+        "oid": "3a59074f2ec01a8000bdd351953c61c32b58dbdf",
+        "verbs": "play",
+        "skeleton_words_clean": "mobile play music",
+        "skeleton_words": "mobile play music",
+        "words": "mobile play music",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "3be448870eb08c209c098ba9b0f9679b44b0df4b": {
+        "oid": "3be448870eb08c209c098ba9b0f9679b44b0df4b",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "he goddamn beeper go off",
+        "pattern": "s-v",
+        "frequency": 13.0
+    },
+    "3c5aac62ca30f322054854eb1d9ed1d837f6e1dd": {
+        "oid": "3c5aac62ca30f322054854eb1d9ed1d837f6e1dd",
+        "verbs": "hoe",
+        "skeleton_words_clean": "hoe",
+        "skeleton_words": "i hoe",
+        "words": "i hoe",
+        "pattern": "s-v",
+        "frequency": 105.0
+    },
+    "3c5d1df8ff2ef37c7cc37647ae9d1a0904e88818": {
+        "oid": "3c5d1df8ff2ef37c7cc37647ae9d1a0904e88818",
+        "verbs": "yearn",
+        "skeleton_words_clean": "human yearn for other",
+        "skeleton_words": "human yearn for other",
+        "words": "human yearn other",
+        "pattern": "s-v-X-o",
+        "frequency": 10.0
+    },
+    "3d0d688d6dc8e5d62457d06392394b9d3746cab5": {
+        "oid": "3d0d688d6dc8e5d62457d06392394b9d3746cab5",
+        "verbs": "honk",
+        "skeleton_words_clean": "horn honk",
+        "skeleton_words": "horn honk",
+        "words": "car horn honk",
+        "pattern": "s-v",
+        "frequency": 2619.0
+    },
+    "3d737315c62b7ae9650dd780cc29b188c8d53d85": {
+        "oid": "3d737315c62b7ae9650dd780cc29b188c8d53d85",
+        "verbs": "rasp",
+        "skeleton_words_clean": "saw rasp",
+        "skeleton_words": "saw rasp",
+        "words": "saw rasp",
+        "pattern": "s-v",
+        "frequency": 9.0
+    },
+    "3da0b1d8718328a380954140ffab02ae3dd905e3": {
+        "oid": "3da0b1d8718328a380954140ffab02ae3dd905e3",
+        "verbs": "want see",
+        "skeleton_words_clean": "want see driver",
+        "skeleton_words": "they want see driver",
+        "words": "they want to see the pile driver",
+        "pattern": "s-v-v-o",
+        "frequency": 14.0
+    },
+    "3e3bd3211d3619456209d7912c862468fcc65553": {
+        "oid": "3e3bd3211d3619456209d7912c862468fcc65553",
+        "verbs": "drill",
+        "skeleton_words_clean": "drill way through rock",
+        "skeleton_words": "i drill way through rock",
+        "words": "i can drill my way through solid rock",
+        "pattern": "s-v-o-X-o",
+        "frequency": 9.0
+    },
+    "3eb11fae3be7c4f9d6f6e126310bf72dc2088604": {
+        "oid": "3eb11fae3be7c4f9d6f6e126310bf72dc2088604",
+        "verbs": "sputter",
+        "skeleton_words_clean": "engine sputter",
+        "skeleton_words": "engine sputter",
+        "words": "engine sputter",
+        "pattern": "s-v",
+        "frequency": 687.0
+    },
+    "3f12fd0f8384942f5f8d0ee665bf58c200d2bf72": {
+        "oid": "3f12fd0f8384942f5f8d0ee665bf58c200d2bf72",
+        "verbs": "scream",
+        "skeleton_words_clean": "siren scream",
+        "skeleton_words": "siren scream",
+        "words": "siren scream",
+        "pattern": "s-v",
+        "frequency": 26.0
+    },
+    "406bca2491f938224df816db8fb948ab47657c53": {
+        "oid": "406bca2491f938224df816db8fb948ab47657c53",
+        "verbs": "buzz",
+        "skeleton_words_clean": "machinery buzz",
+        "skeleton_words": "machinery buzz",
+        "words": "machinery buzz",
+        "pattern": "s-v",
+        "frequency": 22.0
+    },
+    "40edc6d15e722e6627b19f6fcb1982694f76aa36": {
+        "oid": "40edc6d15e722e6627b19f6fcb1982694f76aa36",
+        "verbs": "forbid",
+        "skeleton_words_clean": "crowd forbid",
+        "skeleton_words": "crowd forbid",
+        "words": "large crowd be forbid",
+        "pattern": "spass-v",
+        "frequency": 11.0
+    },
+    "411d2cc31f6492561c910851e3ad769f60493b8d": {
+        "oid": "411d2cc31f6492561c910851e3ad769f60493b8d",
+        "verbs": "be",
+        "skeleton_words_clean": "detail be uncertain",
+        "skeleton_words": "detail be uncertain",
+        "words": "detail be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 6.0
+    },
+    "41914f604cc155bed409daa46b4417d215f93cbe": {
+        "oid": "41914f604cc155bed409daa46b4417d215f93cbe",
+        "verbs": "have",
+        "skeleton_words_clean": "have dog",
+        "skeleton_words": "i have dog",
+        "words": "i have a dog",
+        "pattern": "s-v-o",
+        "frequency": 1839.0
+    },
+    "4191e92f9483522c7065bd140265451bdaa3fbb9": {
+        "oid": "4191e92f9483522c7065bd140265451bdaa3fbb9",
+        "verbs": "begin",
+        "skeleton_words_clean": "whining begin",
+        "skeleton_words": "whining begin",
+        "words": "the whining begin",
+        "pattern": "s-v",
+        "frequency": 9.0
+    },
+    "41a0ca9f8b7f8e1b3845b1b706f62a909f211aeb": {
+        "oid": "41a0ca9f8b7f8e1b3845b1b706f62a909f211aeb",
+        "verbs": "signal",
+        "skeleton_words_clean": "signal",
+        "skeleton_words": "i signal",
+        "words": "i signal",
+        "pattern": "spass-v",
+        "frequency": 169.0
+    },
+    "426290c49e30b73d36cbb8d38de0320c9209f63e": {
+        "oid": "426290c49e30b73d36cbb8d38de0320c9209f63e",
+        "verbs": "toot",
+        "skeleton_words_clean": "car toot horn",
+        "skeleton_words": "car toot horn",
+        "words": "car toot horn",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "4326015cd53eb25e7c151709f85d70e398a40a8c": {
+        "oid": "4326015cd53eb25e7c151709f85d70e398a40a8c",
+        "verbs": "click",
+        "skeleton_words_clean": "machinery click",
+        "skeleton_words": "machinery click",
+        "words": "machinery click",
+        "pattern": "s-v",
+        "frequency": 21.0
+    },
+    "438d27a6a364dd98739d6e915f04e2ed793e79df": {
+        "oid": "438d27a6a364dd98739d6e915f04e2ed793e79df",
+        "verbs": "continue",
+        "skeleton_words_clean": "music continue",
+        "skeleton_words": "music continue",
+        "words": "music music music music continue",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "43a745814b19172c1d95a10742e6b2efe08b75d6": {
+        "oid": "43a745814b19172c1d95a10742e6b2efe08b75d6",
+        "verbs": "be",
+        "skeleton_words_clean": "be stationary",
+        "skeleton_words": "they be stationary",
+        "words": "they be stationary",
+        "pattern": "s-be-a",
+        "frequency": 65.0
+    },
+    "44cc6bfebbcd0a4304ba4f36875e492ac0ab49ae": {
+        "oid": "44cc6bfebbcd0a4304ba4f36875e492ac0ab49ae",
+        "verbs": "play",
+        "skeleton_words_clean": "music play",
+        "skeleton_words": "music play",
+        "words": "rock music play",
+        "pattern": "s-v",
+        "frequency": 3599.0
+    },
+    "44dc2dcb8f8bb76de50de61931780b9e47a48558": {
+        "oid": "44dc2dcb8f8bb76de50de61931780b9e47a48558",
+        "verbs": "be",
+        "skeleton_words_clean": "group be small",
+        "skeleton_words": "group be small",
+        "words": "the group be small",
+        "pattern": "s-be-a",
+        "frequency": 36.0
+    },
+    "45a9d170e0e1e8d85fb4932e9cbfea9ccbb5898d": {
+        "oid": "45a9d170e0e1e8d85fb4932e9cbfea9ccbb5898d",
+        "verbs": "alert",
+        "skeleton_words_clean": "way alert other",
+        "skeleton_words": "way alert other",
+        "words": "in a way will not alert the other",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "462a141425c501fe32363190142104752b6cf75f": {
+        "oid": "462a141425c501fe32363190142104752b6cf75f",
+        "verbs": "signal",
+        "skeleton_words_clean": "signal other",
+        "skeleton_words": "i signal other",
+        "words": "i will signal the other",
+        "pattern": "s-v-o",
+        "frequency": 39.0
+    },
+    "4636632e7313fdf05445aaba109ef1cebfafe84d": {
+        "oid": "4636632e7313fdf05445aaba109ef1cebfafe84d",
+        "verbs": "do",
+        "skeleton_words_clean": "human do",
+        "skeleton_words": "human do",
+        "words": "other human do",
+        "pattern": "s-v",
+        "frequency": 13.0
+    },
+    "470e550f4662de7c46b381551cdebbd3c1db99d4": {
+        "oid": "470e550f4662de7c46b381551cdebbd3c1db99d4",
+        "verbs": "alert",
+        "skeleton_words_clean": "weather alert",
+        "skeleton_words": "weather alert",
+        "words": "weather alert",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "48625da57364ffe59b7075513b819d8386fcaa13": {
+        "oid": "48625da57364ffe59b7075513b819d8386fcaa13",
+        "verbs": "hate",
+        "skeleton_words_clean": "hate talk",
+        "skeleton_words": "i hate talk",
+        "words": "i hate small talk",
+        "pattern": "s-v-o",
+        "frequency": 100.0
+    },
+    "48a0697188c101bdc3e628d78655906f034df9db": {
+        "oid": "48a0697188c101bdc3e628d78655906f034df9db",
+        "verbs": "be",
+        "skeleton_words_clean": "be stationary",
+        "skeleton_words": "it be stationary",
+        "words": "it be stationary",
+        "pattern": "s-be-a",
+        "frequency": 133.0
+    },
+    "49304cdd5b314f77794989c99d731b3ef578a12b": {
+        "oid": "49304cdd5b314f77794989c99d731b3ef578a12b",
+        "verbs": "be",
+        "skeleton_words_clean": "crowd be large",
+        "skeleton_words": "crowd be large",
+        "words": "crowd be large",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "4993a31b806e6c6209950cd17b1fde81f38423c2": {
+        "oid": "4993a31b806e6c6209950cd17b1fde81f38423c2",
+        "verbs": "blow",
+        "skeleton_words_clean": "horn blow",
+        "skeleton_words": "horn blow",
+        "words": "car horn blow",
+        "pattern": "s-v",
+        "frequency": 31.0
+    },
+    "4b26ca456ffb10abe76ffb67fbce1ed3e179043c": {
+        "oid": "4b26ca456ffb10abe76ffb67fbce1ed3e179043c",
+        "verbs": "be",
+        "skeleton_words_clean": "be large",
+        "skeleton_words": "it be large",
+        "words": "it be large",
+        "pattern": "s-be-a",
+        "frequency": 2060.0
+    },
+    "4b7484492c4ad5a9c03954d78eafebaf611cdd52": {
+        "oid": "4b7484492c4ad5a9c03954d78eafebaf611cdd52",
+        "verbs": "shout",
+        "skeleton_words_clean": "person shout",
+        "skeleton_words": "person shout",
+        "words": "person shout",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "4d480aab38bcd35d1b969fece911aa6f9e1dc270": {
+        "oid": "4d480aab38bcd35d1b969fece911aa6f9e1dc270",
+        "verbs": "snarl",
+        "skeleton_words_clean": "dog snarl",
+        "skeleton_words": "dog snarl",
+        "words": "dog snarl",
+        "pattern": "s-v",
+        "frequency": 268.0
+    },
+    "4f6a18815b647ed3a0779bcaebfffa0fe7ca45d7": {
+        "oid": "4f6a18815b647ed3a0779bcaebfffa0fe7ca45d7",
+        "verbs": "cheer",
+        "skeleton_words_clean": "crowd cheer",
+        "skeleton_words": "crowd cheer",
+        "words": "crowd cheer",
+        "pattern": "s-v",
+        "frequency": 18085.0
+    },
+    "503c0a849549d731d6536a9f15279b6fbb225adc": {
+        "oid": "503c0a849549d731d6536a9f15279b6fbb225adc",
+        "verbs": "whine",
+        "skeleton_words_clean": "dog whine",
+        "skeleton_words": "dog whine",
+        "words": "dog whine",
+        "pattern": "s-v",
+        "frequency": 658.0
+    },
+    "50cb5c5969ba6d6c6c8f3a4d203858107d3ff456": {
+        "oid": "50cb5c5969ba6d6c6c8f3a4d203858107d3ff456",
+        "verbs": "be",
+        "skeleton_words_clean": "be human",
+        "skeleton_words": "i be human",
+        "words": "i be human",
+        "pattern": "s-be-a",
+        "frequency": 2862.0
+    },
+    "51025eb4bcc8463fef90e069d4c1e402a993d5d0": {
+        "oid": "51025eb4bcc8463fef90e069d4c1e402a993d5d0",
+        "verbs": "applaud",
+        "skeleton_words_clean": "crowd applaud",
+        "skeleton_words": "crowd applaud",
+        "words": "crowd applaud",
+        "pattern": "s-v",
+        "frequency": 2137.0
+    },
+    "51949ba8a396ad9bf0121cf24718adfef7901ff8": {
+        "oid": "51949ba8a396ad9bf0121cf24718adfef7901ff8",
+        "verbs": "be",
+        "skeleton_words_clean": "be jackhammer",
+        "skeleton_words": "it be jackhammer",
+        "words": "it be a jackhammer",
+        "pattern": "s-be-a",
+        "frequency": 11.0
+    },
+    "527a81e207bf4e7432021db9bed8273cd908144f": {
+        "oid": "527a81e207bf4e7432021db9bed8273cd908144f",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "inevitably dad beeper would go off",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "53c0db870d002c1c56d95081f9f9a7c48d2ac7f6": {
+        "oid": "53c0db870d002c1c56d95081f9f9a7c48d2ac7f6",
+        "verbs": "say",
+        "skeleton_words_clean": "mobile say",
+        "skeleton_words": "mobile say",
+        "words": "mobile say",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "554618bcb1865ce6b67b6e5a75587536fc267efc": {
+        "oid": "554618bcb1865ce6b67b6e5a75587536fc267efc",
+        "verbs": "love",
+        "skeleton_words_clean": "love dog",
+        "skeleton_words": "i love dog",
+        "words": "i love dog",
+        "pattern": "s-v-o",
+        "frequency": 1238.0
+    },
+    "5558cb6e7483e61b5a34c16154d86a7bb5ade6a3": {
+        "oid": "5558cb6e7483e61b5a34c16154d86a7bb5ade6a3",
+        "verbs": "be",
+        "skeleton_words_clean": "be voice",
+        "skeleton_words": "it be voice",
+        "words": "it be a human voice",
+        "pattern": "s-be-a",
+        "frequency": 18.0
+    },
+    "557778f14cb5b1ac88d30b171c28e241f53c90de": {
+        "oid": "557778f14cb5b1ac88d30b171c28e241f53c90de",
+        "verbs": "resubmit",
+        "skeleton_words_clean": "resubmit from source",
+        "skeleton_words": "you resubmit from source",
+        "words": "you resubmit from a better source",
+        "pattern": "s-v-X-o",
+        "frequency": 1244.0
+    },
+    "571878b76754979e21c70199c727a10c0530999a": {
+        "oid": "571878b76754979e21c70199c727a10c0530999a",
+        "verbs": "start",
+        "skeleton_words_clean": "engine start",
+        "skeleton_words": "engine start",
+        "words": "engine start",
+        "pattern": "s-v",
+        "frequency": 19120.0
+    },
+    "572a60e1d56441b937d013b6d07818c6f7072efb": {
+        "oid": "572a60e1d56441b937d013b6d07818c6f7072efb",
+        "verbs": "signal",
+        "skeleton_words_clean": "signal",
+        "skeleton_words": "it signal",
+        "words": "it signal",
+        "pattern": "s-v",
+        "frequency": 224.0
+    },
+    "580c3419af66d099ea15618c785b2e36416c4bac": {
+        "oid": "580c3419af66d099ea15618c785b2e36416c4bac",
+        "verbs": "buzz",
+        "skeleton_words_clean": "chainsaw buzz",
+        "skeleton_words": "chainsaw buzz",
+        "words": "chainsaw buzz",
+        "pattern": "s-v",
+        "frequency": 156.0
+    },
+    "588d5e56246263676233dac9bbb96faf32a25b6e": {
+        "oid": "588d5e56246263676233dac9bbb96faf32a25b6e",
+        "verbs": "murmur",
+        "skeleton_words_clean": "crowd murmur",
+        "skeleton_words": "crowd murmur",
+        "words": "crowd murmur",
+        "pattern": "s-v",
+        "frequency": 2079.0
+    },
+    "59c38d3cc004fa67540d4b0358f140f96b35c6b1": {
+        "oid": "59c38d3cc004fa67540d4b0358f140f96b35c6b1",
+        "verbs": "cease",
+        "skeleton_words_clean": "siren cease",
+        "skeleton_words": "siren cease",
+        "words": "siren cease",
+        "pattern": "s-v",
+        "frequency": 16.0
+    },
+    "5a1e9ae87ac4624735209aea71117ad890346010": {
+        "oid": "5a1e9ae87ac4624735209aea71117ad890346010",
+        "verbs": "make",
+        "skeleton_words_clean": "make talk",
+        "skeleton_words": "he make talk",
+        "words": "he make small talk",
+        "pattern": "s-v-o",
+        "frequency": 100.0
+    },
+    "5ad62da1379ab4b81d7a3716ea674c5e1c7e439f": {
+        "oid": "5ad62da1379ab4b81d7a3716ea674c5e1c7e439f",
+        "verbs": "beep",
+        "skeleton_words_clean": "mobile beep",
+        "skeleton_words": "mobile beep",
+        "words": "mobile beep",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "5b20ed86c865e7f7a72fde53447b58c65085a26b": {
+        "oid": "5b20ed86c865e7f7a72fde53447b58c65085a26b",
+        "verbs": "show",
+        "skeleton_words_clean": "sounding show",
+        "skeleton_words": "sounding show",
+        "words": "sounding show",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "5c4eacda0996028ce4c451d82fc7c62703817e2b": {
+        "oid": "5c4eacda0996028ce4c451d82fc7c62703817e2b",
+        "verbs": "be",
+        "skeleton_words_clean": "be stationary",
+        "skeleton_words": "we be stationary",
+        "words": "we be stationary",
+        "pattern": "s-be-a",
+        "frequency": 20.0
+    },
+    "5e8d49d9c884d531668c46d5d852e99b2b22de11": {
+        "oid": "5e8d49d9c884d531668c46d5d852e99b2b22de11",
+        "verbs": "be",
+        "skeleton_words_clean": "portion be large",
+        "skeleton_words": "portion be large",
+        "words": "the portion be large",
+        "pattern": "s-be-a",
+        "frequency": 2933.0
+    },
+    "5f24931cd077843d32a16d9a045782146b762ac6": {
+        "oid": "5f24931cd077843d32a16d9a045782146b762ac6",
+        "verbs": "be",
+        "skeleton_words_clean": "be large",
+        "skeleton_words": "they be large",
+        "words": "they be large",
+        "pattern": "s-be-a",
+        "frequency": 995.0
+    },
+    "5f2faabca63e44dadae8d7477998bbca0072d9de": {
+        "oid": "5f2faabca63e44dadae8d7477998bbca0072d9de",
+        "verbs": "be",
+        "skeleton_words_clean": "dog be dog",
+        "skeleton_words": "dog be dog",
+        "words": "dog be dog",
+        "pattern": "s-be-a",
+        "frequency": 71.0
+    },
+    "5f604b0355328e2c6307d06b3e00e0224ef0ad88": {
+        "oid": "5f604b0355328e2c6307d06b3e00e0224ef0ad88",
+        "verbs": "make",
+        "skeleton_words_clean": "make by saw",
+        "skeleton_words": "they make by saw",
+        "words": "like they be make by a power saw",
+        "pattern": "spass-v-X-o",
+        "frequency": 5.0
+    },
+    "61216f004168e401110bcdde1ec9d360d9ab9b54": {
+        "oid": "61216f004168e401110bcdde1ec9d360d9ab9b54",
+        "verbs": "alert",
+        "skeleton_words_clean": "google alert",
+        "skeleton_words": "google alert",
+        "words": "google alert",
+        "pattern": "s-v",
+        "frequency": 15.0
+    },
+    "62bc54bb2793eac44c1bfc6d1ea012bcc74febd5": {
+        "oid": "62bc54bb2793eac44c1bfc6d1ea012bcc74febd5",
+        "verbs": "shout",
+        "skeleton_words_clean": "shout shout **",
+        "skeleton_words": "shout shout **",
+        "words": "shout shout shout shout shout shout shout shout **",
+        "pattern": "s-v-o",
+        "frequency": 13.0
+    },
+    "632de2633065437a7a8ea39f8d2aedc3b4508b8e": {
+        "oid": "632de2633065437a7a8ea39f8d2aedc3b4508b8e",
+        "verbs": "be",
+        "skeleton_words_clean": "be speech",
+        "skeleton_words": "be speech",
+        "words": "be speech",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "639c2f66f49065bbc1e5940ad5a092e6dbbbdeca": {
+        "oid": "639c2f66f49065bbc1e5940ad5a092e6dbbbdeca",
+        "verbs": "whine",
+        "skeleton_words_clean": "machinery whine",
+        "skeleton_words": "machinery whine",
+        "words": "machinery whine",
+        "pattern": "s-v",
+        "frequency": 10.0
+    },
+    "6467ead29a9828b74b6bc386c6f5147754cc2f9f": {
+        "oid": "6467ead29a9828b74b6bc386c6f5147754cc2f9f",
+        "verbs": "be",
+        "skeleton_words_clean": "group be small",
+        "skeleton_words": "group be small",
+        "words": "you group be small",
+        "pattern": "s-be-a",
+        "frequency": 9.0
+    },
+    "6493e64e756c3d0c452dc36e6d88bbdb9b02491a": {
+        "oid": "6493e64e756c3d0c452dc36e6d88bbdb9b02491a",
+        "verbs": "fuck",
+        "skeleton_words_clean": "fuck saw",
+        "skeleton_words": "i fuck saw",
+        "words": "i fuck saw",
+        "pattern": "s-v-o",
+        "frequency": 61.0
+    },
+    "6531293124c6fbd1e121986974732db2b280927f": {
+        "oid": "6531293124c6fbd1e121986974732db2b280927f",
+        "verbs": "draw",
+        "skeleton_words_clean": "draw crowd",
+        "skeleton_words": "he draw crowd",
+        "words": "he draw large crowd",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "65e5c4a117525a6b4be86aa5dd1ad3cc61006049": {
+        "oid": "65e5c4a117525a6b4be86aa5dd1ad3cc61006049",
+        "verbs": "be",
+        "skeleton_words_clean": "one be stationary",
+        "skeleton_words": "one be stationary",
+        "words": "one be stationary",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "664a0a8f07709efccd84f4ddc1be3988c5abbd2e": {
+        "oid": "664a0a8f07709efccd84f4ddc1be3988c5abbd2e",
+        "verbs": "drill",
+        "skeleton_words_clean": "drill",
+        "skeleton_words": "we drill",
+        "words": "we drill",
+        "pattern": "s-v",
+        "frequency": 97.0
+    },
+    "66875d593b948abb77bb2d4e3fd871b6e4b34194": {
+        "oid": "66875d593b948abb77bb2d4e3fd871b6e4b34194",
+        "verbs": "be",
+        "skeleton_words_clean": "be human",
+        "skeleton_words": "they be human",
+        "words": "they be human",
+        "pattern": "s-be-a",
+        "frequency": 2240.0
+    },
+    "66d09fbf31eb2ede603a2520e46077837ded3841": {
+        "oid": "66d09fbf31eb2ede603a2520e46077837ded3841",
+        "verbs": "be",
+        "skeleton_words_clean": "person be small",
+        "skeleton_words": "person be small",
+        "words": "the person be small",
+        "pattern": "s-be-a",
+        "frequency": 11.0
+    },
+    "67fd0d70353db55481c5a9af89543bab4a2a147a": {
+        "oid": "67fd0d70353db55481c5a9af89543bab4a2a147a",
+        "verbs": "have",
+        "skeleton_words_clean": "have beeper",
+        "skeleton_words": "i have beeper",
+        "words": "i have beeper",
+        "pattern": "s-v-o",
+        "frequency": 26.0
+    },
+    "6829bf8a1ab4b8df01d07e36e03d8e442c332460": {
+        "oid": "6829bf8a1ab4b8df01d07e36e03d8e442c332460",
+        "verbs": "wail",
+        "skeleton_words_clean": "siren wail",
+        "skeleton_words": "siren wail",
+        "words": "distant siren wail",
+        "pattern": "s-v",
+        "frequency": 601.0
+    },
+    "68edc4425dd75ec0b61397433eda798b75bc3705": {
+        "oid": "68edc4425dd75ec0b61397433eda798b75bc3705",
+        "verbs": "turn",
+        "skeleton_words_clean": "engine turn over rev",
+        "skeleton_words": "engine turn over rev",
+        "words": "engine turn over engine rev",
+        "pattern": "s-v-X-o",
+        "frequency": 14.0
+    },
+    "69bcd9a2f434e697f404ae66e76cab455dee9e8f": {
+        "oid": "69bcd9a2f434e697f404ae66e76cab455dee9e8f",
+        "verbs": "rev",
+        "skeleton_words_clean": "engine rev",
+        "skeleton_words": "engine rev",
+        "words": "engine rev",
+        "pattern": "s-v",
+        "frequency": 1569.0
+    },
+    "6a435dd978361e29fab73eca1efd09a6758a060d": {
+        "oid": "6a435dd978361e29fab73eca1efd09a6758a060d",
+        "verbs": "stall",
+        "skeleton_words_clean": "engine stall",
+        "skeleton_words": "engine stall",
+        "words": "engine stall",
+        "pattern": "s-v",
+        "frequency": 713.0
+    },
+    "6affd932322e9c49bbe29471148ffcd19d9ba214": {
+        "oid": "6affd932322e9c49bbe29471148ffcd19d9ba214",
+        "verbs": "shout",
+        "skeleton_words_clean": "shout",
+        "skeleton_words": "he shout",
+        "words": "he shout",
+        "pattern": "s-v",
+        "frequency": 3856.0
+    },
+    "6c28de405af5be5bbc7536a3dea55336edb1b5d2": {
+        "oid": "6c28de405af5be5bbc7536a3dea55336edb1b5d2",
+        "verbs": "be",
+        "skeleton_words_clean": "be voice",
+        "skeleton_words": "it be voice",
+        "words": "it be like a human voice",
+        "pattern": "s-be-a",
+        "frequency": 6.0
+    },
+    "6ccf0e7b0e42fb689d61a8af611cc9418dfd5f11": {
+        "oid": "6ccf0e7b0e42fb689d61a8af611cc9418dfd5f11",
+        "verbs": "be",
+        "skeleton_words_clean": "name be unknown",
+        "skeleton_words": "name be unknown",
+        "words": "other name be unknown",
+        "pattern": "s-be-a",
+        "frequency": 6.0
+    },
+    "6ce9dca66eb7127d173a9961e34b5d14d9195d79": {
+        "oid": "6ce9dca66eb7127d173a9961e34b5d14d9195d79",
+        "verbs": "be",
+        "skeleton_words_clean": "be group",
+        "skeleton_words": "it be group",
+        "words": "it be a small group",
+        "pattern": "s-be-a",
+        "frequency": 118.0
+    },
+    "6ddc288732aceeed895562d65341d3e8961b7631": {
+        "oid": "6ddc288732aceeed895562d65341d3e8961b7631",
+        "verbs": "wail",
+        "skeleton_words_clean": "siren wail",
+        "skeleton_words": "siren wail",
+        "words": "police siren wail",
+        "pattern": "s-v",
+        "frequency": 689.0
+    },
+    "6de2a5c99a00c804eeca5bd0086a9fa2250bbbca": {
+        "oid": "6de2a5c99a00c804eeca5bd0086a9fa2250bbbca",
+        "verbs": "chirp",
+        "skeleton_words_clean": "alarm chirp",
+        "skeleton_words": "alarm chirp",
+        "words": "car alarm chirp",
+        "pattern": "s-v",
+        "frequency": 1221.0
+    },
+    "6e6f8bb8742d38a2655d8cff900bf88dcd1f24da": {
+        "oid": "6e6f8bb8742d38a2655d8cff900bf88dcd1f24da",
+        "verbs": "be",
+        "skeleton_words_clean": "be alert",
+        "skeleton_words": "be alert",
+        "words": "be alert",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "6e771354fc03f2e5113cd9b8e8a8f4b33d7127ce": {
+        "oid": "6e771354fc03f2e5113cd9b8e8a8f4b33d7127ce",
+        "verbs": "be",
+        "skeleton_words_clean": "be drill",
+        "skeleton_words": "this be drill",
+        "words": "this be not a drill",
+        "pattern": "s-be-a",
+        "frequency": 2854.0
+    },
+    "6e94de57d0d171ecf438ad99016edd61f08c2e33": {
+        "oid": "6e94de57d0d171ecf438ad99016edd61f08c2e33",
+        "verbs": "eat",
+        "skeleton_words_clean": "dog eat food",
+        "skeleton_words": "dog eat food",
+        "words": "dog eat dog food",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "6ec40e0f2adeeb85f4756c077eff3b483c08a286": {
+        "oid": "6ec40e0f2adeeb85f4756c077eff3b483c08a286",
+        "verbs": "continue",
+        "skeleton_words_clean": "chainsaw continue",
+        "skeleton_words": "chainsaw continue",
+        "words": "chainsaw continue",
+        "pattern": "s-v",
+        "frequency": 15.0
+    },
+    "6ee15a726b4766fd03d9a7552c23a1cfe495df0c": {
+        "oid": "6ee15a726b4766fd03d9a7552c23a1cfe495df0c",
+        "verbs": "be",
+        "skeleton_words_clean": "sounding be clear",
+        "skeleton_words": "sounding be clear",
+        "words": "the radar sounding be clear",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "6f09c0b09e6bd8f287b64c1cb2281e4d063ac833": {
+        "oid": "6f09c0b09e6bd8f287b64c1cb2281e4d063ac833",
+        "verbs": "whoop",
+        "skeleton_words_clean": "siren whoop",
+        "skeleton_words": "siren whoop",
+        "words": "siren whoop",
+        "pattern": "s-v",
+        "frequency": 188.0
+    },
+    "6f1cf23066a5536b540b84f6dd4f21fc5cae615a": {
+        "oid": "6f1cf23066a5536b540b84f6dd4f21fc5cae615a",
+        "verbs": "be",
+        "skeleton_words_clean": "mobile be",
+        "skeleton_words": "mobile be",
+        "words": "mobile be",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "6f48b11925d50e916e387261ecfdcdd0c776e1e9": {
+        "oid": "6f48b11925d50e916e387261ecfdcdd0c776e1e9",
+        "verbs": "buzz",
+        "skeleton_words_clean": "mobile buzz",
+        "skeleton_words": "mobile buzz",
+        "words": "mobile buzz",
+        "pattern": "s-v",
+        "frequency": 30.0
+    },
+    "701221ac6d60aece57e3c760b4c1c07b8c838761": {
+        "oid": "701221ac6d60aece57e3c760b4c1c07b8c838761",
+        "verbs": "shut",
+        "skeleton_words_clean": "engine shut",
+        "skeleton_words": "engine shut",
+        "words": "engine run engine shut off",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "70849baf16c7552e0e7abdeec9d1ca48fc4178ea": {
+        "oid": "70849baf16c7552e0e7abdeec9d1ca48fc4178ea",
+        "verbs": "be",
+        "skeleton_words_clean": "other be unknown",
+        "skeleton_words": "other be unknown",
+        "words": "the other be unknown",
+        "pattern": "s-be-a",
+        "frequency": 18.0
+    },
+    "70a0e21270132d5ca70886cfcd875bb59b244719": {
+        "oid": "70a0e21270132d5ca70886cfcd875bb59b244719",
+        "verbs": "dog",
+        "skeleton_words_clean": "dog",
+        "skeleton_words": "you dog",
+        "words": "you dog",
+        "pattern": "s-v",
+        "frequency": 392.0
+    },
+    "70bcb59e8b4b23a5972f05131e58b445413ab139": {
+        "oid": "70bcb59e8b4b23a5972f05131e58b445413ab139",
+        "verbs": "be",
+        "skeleton_words_clean": "be mobile",
+        "skeleton_words": "i be mobile",
+        "words": "i be mobile",
+        "pattern": "s-be-a",
+        "frequency": 190.0
+    },
+    "70edecdb8143d996f95f519089396eeaf0a30cf1": {
+        "oid": "70edecdb8143d996f95f519089396eeaf0a30cf1",
+        "verbs": "say",
+        "skeleton_words_clean": "driver say",
+        "skeleton_words": "driver say",
+        "words": "the driver say",
+        "pattern": "s-v",
+        "frequency": 854.0
+    },
+    "727502a5655f997e91269af2612992cf03d31b56": {
+        "oid": "727502a5655f997e91269af2612992cf03d31b56",
+        "verbs": "mimic",
+        "skeleton_words_clean": "mimic voice",
+        "skeleton_words": "it mimic voice",
+        "words": "it can mimic a human voice",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "74138a0595d27262d2b4546dba5fb1711d5f416d": {
+        "oid": "74138a0595d27262d2b4546dba5fb1711d5f416d",
+        "verbs": "hoe",
+        "skeleton_words_clean": "graves hoe",
+        "skeleton_words": "graves hoe",
+        "words": "graves hoe",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "74d31f6421a5f6c7304ea4226148653972dab11a": {
+        "oid": "74d31f6421a5f6c7304ea4226148653972dab11a",
+        "verbs": "use",
+        "skeleton_words_clean": "* use speech",
+        "skeleton_words": "* use speech",
+        "words": "* do not use hate speech",
+        "pattern": "s-v-o",
+        "frequency": 123.0
+    },
+    "7558b4f4a95a52d75ba490a81df3ad82b5c56bbd": {
+        "oid": "7558b4f4a95a52d75ba490a81df3ad82b5c56bbd",
+        "verbs": "enjoy",
+        "skeleton_words_clean": "voice enjoy meal",
+        "skeleton_words": "voice enjoy meal",
+        "words": "unknown voice enjoy you meal",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "758eb08bf5e2b83d8c59b92fc1ab1b08dbda208a": {
+        "oid": "758eb08bf5e2b83d8c59b92fc1ab1b08dbda208a",
+        "verbs": "be",
+        "skeleton_words_clean": "hand be jackhammer",
+        "skeleton_words": "hand be jackhammer",
+        "words": "she hand be like little jackhammer",
+        "pattern": "s-be-a",
+        "frequency": 11.0
+    },
+    "75a29f57376b477f5110825de07ad80b4bfb49c8": {
+        "oid": "75a29f57376b477f5110825de07ad80b4bfb49c8",
+        "verbs": "eat",
+        "skeleton_words_clean": "dog eat dog",
+        "skeleton_words": "dog eat dog",
+        "words": "all dog eat dog",
+        "pattern": "s-v-o",
+        "frequency": 8.0
+    },
+    "7631ed0d1f635f0ab887dbdce3b9f2454993b0c4": {
+        "oid": "7631ed0d1f635f0ab887dbdce3b9f2454993b0c4",
+        "verbs": "voice",
+        "skeleton_words_clean": "silence voice child",
+        "skeleton_words": "silence voice child",
+        "words": "silence squeaky voice human child",
+        "pattern": "s-v-o",
+        "frequency": 8.0
+    },
+    "766a18747e732b191350fbaacc0649304db05e96": {
+        "oid": "766a18747e732b191350fbaacc0649304db05e96",
+        "verbs": "beep",
+        "skeleton_words_clean": "horn beep",
+        "skeleton_words": "horn beep",
+        "words": "car horn beep",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "76c1b8a1674f7da52915888a851744bea5ffefa1": {
+        "oid": "76c1b8a1674f7da52915888a851744bea5ffefa1",
+        "verbs": "rock",
+        "skeleton_words_clean": "trebuchet rock rock",
+        "skeleton_words": "trebuchet rock rock",
+        "words": "trebuchet rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock",
+        "pattern": "s-v-o",
+        "frequency": 27.0
+    },
+    "76e544a33e210e0eb122779e7593094f423ad590": {
+        "oid": "76e544a33e210e0eb122779e7593094f423ad590",
+        "verbs": "be",
+        "skeleton_words_clean": "be stationary",
+        "skeleton_words": "he be stationary",
+        "words": "he be stationary",
+        "pattern": "s-be-a",
+        "frequency": 37.0
+    },
+    "77347515d6ac6250647d9678ccb216ff0fb3b08e": {
+        "oid": "77347515d6ac6250647d9678ccb216ff0fb3b08e",
+        "verbs": "be",
+        "skeleton_words_clean": "grebe be small to bird",
+        "skeleton_words": "grebe be small to bird",
+        "words": "grebe be small to medium large freshwater diving bird",
+        "pattern": "s-v-a-X-o",
+        "frequency": 262.0
+    },
+    "775ad4a93921486978743dbc2fbb09f474727dcf": {
+        "oid": "775ad4a93921486978743dbc2fbb09f474727dcf",
+        "verbs": "chatter",
+        "skeleton_words_clean": "people chatter",
+        "skeleton_words": "people chatter",
+        "words": "puppies barking people chatter",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "77def73c7b59bb7296a66518f0cf4479c981f1c6": {
+        "oid": "77def73c7b59bb7296a66518f0cf4479c981f1c6",
+        "verbs": "stall",
+        "skeleton_words_clean": "chainsaw stall",
+        "skeleton_words": "chainsaw stall",
+        "words": "chainsaw stall",
+        "pattern": "s-v",
+        "frequency": 11.0
+    },
+    "78da329a245a2ede6b389ef69101f95d5045f173": {
+        "oid": "78da329a245a2ede6b389ef69101f95d5045f173",
+        "verbs": "see",
+        "skeleton_words_clean": "medium see",
+        "skeleton_words": "medium see",
+        "words": "the medium have ever see",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "790f089ea6cc9770317aaac8319c3a9dbd3e92be": {
+        "oid": "790f089ea6cc9770317aaac8319c3a9dbd3e92be",
+        "verbs": "listen",
+        "skeleton_words_clean": "mobile listen",
+        "skeleton_words": "mobile listen",
+        "words": "mobile listen",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "791a67d6eb6d79a6f9ae792ead2261b9efe4714c": {
+        "oid": "791a67d6eb6d79a6f9ae792ead2261b9efe4714c",
+        "verbs": "show",
+        "skeleton_words_clean": "chart show sounding",
+        "skeleton_words": "chart show sounding",
+        "words": "hunter meticulous chart show 30 depth sounding",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "7969a3763c1b1643a6ba5cc99136db72fe37da89": {
+        "oid": "7969a3763c1b1643a6ba5cc99136db72fe37da89",
+        "verbs": "gather",
+        "skeleton_words_clean": "crowd gather",
+        "skeleton_words": "crowd gather",
+        "words": "a large crowd have gather",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "7b5b1c17ff61c34d9141c44a112e1aacf050360f": {
+        "oid": "7b5b1c17ff61c34d9141c44a112e1aacf050360f",
+        "verbs": "stop",
+        "skeleton_words_clean": "drill stop",
+        "skeleton_words": "drill stop",
+        "words": "drill stop",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "7bd82c6bd99a6ce5de44dc970c0148f78e27ccf4": {
+        "oid": "7bd82c6bd99a6ce5de44dc970c0148f78e27ccf4",
+        "verbs": "be",
+        "skeleton_words_clean": "be group",
+        "skeleton_words": "it be group",
+        "words": "it be a small group small",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "7c7759f6406256c98725c332d767bd9b1059d4c7": {
+        "oid": "7c7759f6406256c98725c332d767bd9b1059d4c7",
+        "verbs": "be",
+        "skeleton_words_clean": "be human",
+        "skeleton_words": "you be human",
+        "words": "you be human",
+        "pattern": "s-be-a",
+        "frequency": 3167.0
+    },
+    "7d181231b29c0316099118944b2b4741e442fc30": {
+        "oid": "7d181231b29c0316099118944b2b4741e442fc30",
+        "verbs": "continue",
+        "skeleton_words_clean": "music continue",
+        "skeleton_words": "music continue",
+        "words": "music music continue",
+        "pattern": "s-v",
+        "frequency": 33.0
+    },
+    "7eeb341bb4fa47201155d069768038fa2ccb7edf": {
+        "oid": "7eeb341bb4fa47201155d069768038fa2ccb7edf",
+        "verbs": "have",
+        "skeleton_words_clean": "have jackhammer",
+        "skeleton_words": "you have jackhammer",
+        "words": "you have a jackhammer",
+        "pattern": "s-v-o",
+        "frequency": 8.0
+    },
+    "7f1a896f92982c7f8344f302d0a7e5471afd306d": {
+        "oid": "7f1a896f92982c7f8344f302d0a7e5471afd306d",
+        "verbs": "talk",
+        "skeleton_words_clean": "town talk",
+        "skeleton_words": "town talk",
+        "words": "small town talk",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "7fe7807823bd3d90ae7ab4b4c8396068f9b589a4": {
+        "oid": "7fe7807823bd3d90ae7ab4b4c8396068f9b589a4",
+        "verbs": "help",
+        "skeleton_words_clean": "whining help",
+        "skeleton_words": "whining help",
+        "words": "you fucking whining be not help now",
+        "pattern": "s-v",
+        "frequency": 14.0
+    },
+    "800ebd8a3db3cf5dd7b3ae83d5490c49fe0153dc": {
+        "oid": "800ebd8a3db3cf5dd7b3ae83d5490c49fe0153dc",
+        "verbs": "shout",
+        "skeleton_words_clean": "man shout",
+        "skeleton_words": "man shout",
+        "words": "man shout",
+        "pattern": "s-v",
+        "frequency": 3987.0
+    },
+    "80341b53037cc18ddc0d9d9219da6fc977d7448e": {
+        "oid": "80341b53037cc18ddc0d9d9219da6fc977d7448e",
+        "verbs": "drill",
+        "skeleton_words_clean": "drill",
+        "skeleton_words": "you drill",
+        "words": "you drill",
+        "pattern": "s-v",
+        "frequency": 97.0
+    },
+    "8087c99dd1fdc14e460470a41b24eaf69bfa906d": {
+        "oid": "8087c99dd1fdc14e460470a41b24eaf69bfa906d",
+        "verbs": "source",
+        "skeleton_words_clean": "rating source from barb",
+        "skeleton_words": "rating source from barb",
+        "words": "rating source from barb",
+        "pattern": "s-v-X-o",
+        "frequency": 5.0
+    },
+    "80c45e07796bfc458f57c39ebe5fe5dab093553c": {
+        "oid": "80c45e07796bfc458f57c39ebe5fe5dab093553c",
+        "verbs": "rev",
+        "skeleton_words_clean": "chainsaw rev",
+        "skeleton_words": "chainsaw rev",
+        "words": "chainsaw rev",
+        "pattern": "s-v",
+        "frequency": 46.0
+    },
+    "81bdb4511780459ec9b474320a881415d972896b": {
+        "oid": "81bdb4511780459ec9b474320a881415d972896b",
+        "verbs": "honk",
+        "skeleton_words_clean": "horn honk",
+        "skeleton_words": "horn honk",
+        "words": "horn honk",
+        "pattern": "s-v",
+        "frequency": 8872.0
+    },
+    "81d9e6d470c78feeea2c7b6224d5267db20a4b7b": {
+        "oid": "81d9e6d470c78feeea2c7b6224d5267db20a4b7b",
+        "verbs": "have",
+        "skeleton_words_clean": "have group",
+        "skeleton_words": "you have group",
+        "words": "you have a small group",
+        "pattern": "s-v-o",
+        "frequency": 35.0
+    },
+    "822237483c864bb1857891de75b905e2b2a0b77e": {
+        "oid": "822237483c864bb1857891de75b905e2b2a0b77e",
+        "verbs": "be",
+        "skeleton_words_clean": "uncertain be",
+        "skeleton_words": "uncertain be",
+        "words": "uncertain be",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "82334cbf00fe13b258f18c9d5c4680a82ca97d71": {
+        "oid": "82334cbf00fe13b258f18c9d5c4680a82ca97d71",
+        "verbs": "beep",
+        "skeleton_words_clean": "alert beep",
+        "skeleton_words": "alert beep",
+        "words": "alert beep",
+        "pattern": "s-v",
+        "frequency": 21.0
+    },
+    "8258c98bb2d9b5ace2b2317bb57ecf160abb1629": {
+        "oid": "8258c98bb2d9b5ace2b2317bb57ecf160abb1629",
+        "verbs": "be",
+        "skeleton_words_clean": "be truck",
+        "skeleton_words": "this be truck",
+        "words": "this be a ice cream truck",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "82c633fd5dd501c105cabe1a320dcb122fd7d631": {
+        "oid": "82c633fd5dd501c105cabe1a320dcb122fd7d631",
+        "verbs": "form",
+        "skeleton_words_clean": "group form",
+        "skeleton_words": "group form",
+        "words": "a small group form",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "82f696fb9efb24471b34285861f226e293ddc562": {
+        "oid": "82f696fb9efb24471b34285861f226e293ddc562",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "beeper go off",
+        "pattern": "s-v",
+        "frequency": 41.0
+    },
+    "83b081e21002f717514888023d5c7a43f322d024": {
+        "oid": "83b081e21002f717514888023d5c7a43f322d024",
+        "verbs": "work",
+        "skeleton_words_clean": "work on signal",
+        "skeleton_words": "i work on signal",
+        "words": "i have be work on a new alert signal",
+        "pattern": "s-v-X-o",
+        "frequency": 9.0
+    },
+    "83b8951f95dbd5993e2af872d8c00a9e94f9b175": {
+        "oid": "83b8951f95dbd5993e2af872d8c00a9e94f9b175",
+        "verbs": "pile",
+        "skeleton_words_clean": "pile",
+        "skeleton_words": "it pile",
+        "words": "it pile",
+        "pattern": "spass-v",
+        "frequency": 21.0
+    },
+    "83f9830efc62cad965f332cd60579c470d989c2e": {
+        "oid": "83f9830efc62cad965f332cd60579c470d989c2e",
+        "verbs": "whir",
+        "skeleton_words_clean": "chainsaw whir",
+        "skeleton_words": "chainsaw whir",
+        "words": "chainsaw whir",
+        "pattern": "s-v",
+        "frequency": 36.0
+    },
+    "8407037f84179e3dad4188ede1e3eecc754915b2": {
+        "oid": "8407037f84179e3dad4188ede1e3eecc754915b2",
+        "verbs": "be",
+        "skeleton_words_clean": "be driver",
+        "skeleton_words": "that be driver",
+        "words": "that be not a louisiana pile driver",
+        "pattern": "s-be-a",
+        "frequency": 14.0
+    },
+    "846c087ab7cb3a1a9859e3509de976dfaecda5d1": {
+        "oid": "846c087ab7cb3a1a9859e3509de976dfaecda5d1",
+        "verbs": "backfire",
+        "skeleton_words_clean": "engine backfire",
+        "skeleton_words": "engine backfire",
+        "words": "engine rumble engine backfire",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "8499211d30538d1e23ef6a68fe6159aa1560ebfe": {
+        "oid": "8499211d30538d1e23ef6a68fe6159aa1560ebfe",
+        "verbs": "impact",
+        "skeleton_words_clean": "one impact other",
+        "skeleton_words": "one impact other",
+        "words": "one do not impact the other",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "8552ce84b1a76ae493ffc4da17c2f9ad4c07ea56": {
+        "oid": "8552ce84b1a76ae493ffc4da17c2f9ad4c07ea56",
+        "verbs": "be",
+        "skeleton_words_clean": "voice be complex",
+        "skeleton_words": "voice be complex",
+        "words": "the human voice be not real complex",
+        "pattern": "s-be-a",
+        "frequency": 6.0
+    },
+    "856b7803daaffed793f2041c1f09150922144ad5": {
+        "oid": "856b7803daaffed793f2041c1f09150922144ad5",
+        "verbs": "be",
+        "skeleton_words_clean": "dog be dog",
+        "skeleton_words": "dog be dog",
+        "words": "the dog be dog",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "865bb802b425553a386734649d422cee9efeff90": {
+        "oid": "865bb802b425553a386734649d422cee9efeff90",
+        "verbs": "play",
+        "skeleton_words_clean": "music play",
+        "skeleton_words": "music play",
+        "words": "music play",
+        "pattern": "s-v",
+        "frequency": 10358.0
+    },
+    "868c3a8ba13f627e20ba54df4e84c394645a8a66": {
+        "oid": "868c3a8ba13f627e20ba54df4e84c394645a8a66",
+        "verbs": "whir",
+        "skeleton_words_clean": "engine whir",
+        "skeleton_words": "engine whir",
+        "words": "small engine whir",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "877c27bb9508084d8b33d3fed81777bf9cd30d9b": {
+        "oid": "877c27bb9508084d8b33d3fed81777bf9cd30d9b",
+        "verbs": "buzz",
+        "skeleton_words_clean": "saw buzz",
+        "skeleton_words": "saw buzz",
+        "words": "saw buzz",
+        "pattern": "s-v",
+        "frequency": 97.0
+    },
+    "8780285620b956b61039d05ad34fbeb59e222e1f": {
+        "oid": "8780285620b956b61039d05ad34fbeb59e222e1f",
+        "verbs": "eat",
+        "skeleton_words_clean": "dog eat dog",
+        "skeleton_words": "dog eat dog",
+        "words": "dog eat dog pointless",
+        "pattern": "s-v-o",
+        "frequency": 16.0
+    },
+    "8841a1a0de9ea31483a5e5f33bce98eb5a5ac07e": {
+        "oid": "8841a1a0de9ea31483a5e5f33bce98eb5a5ac07e",
+        "verbs": "be",
+        "skeleton_words_clean": "speech be speech",
+        "skeleton_words": "speech be speech",
+        "words": "a speech be a speech",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "886016969a322c3c023248c632127bb146b20370": {
+        "oid": "886016969a322c3c023248c632127bb146b20370",
+        "verbs": "be",
+        "skeleton_words_clean": "medium be medium",
+        "skeleton_words": "medium be medium",
+        "words": "medium be medium",
+        "pattern": "s-be-a",
+        "frequency": 7.0
+    },
+    "892470c934768d17d93f20d87d57f7cfb131cafb": {
+        "oid": "892470c934768d17d93f20d87d57f7cfb131cafb",
+        "verbs": "pile",
+        "skeleton_words_clean": "dog pile",
+        "skeleton_words": "dog pile",
+        "words": "dog pile",
+        "pattern": "s-v",
+        "frequency": 15.0
+    },
+    "8a4fbc10b23a026b3f88a3f368b28e6ae8bbd8d8": {
+        "oid": "8a4fbc10b23a026b3f88a3f368b28e6ae8bbd8d8",
+        "verbs": "be",
+        "skeleton_words_clean": "saw be point",
+        "skeleton_words": "saw be point",
+        "words": "a power saw be not the point",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "8aecbc85df68c0d20172cac444f44de90581ed35": {
+        "oid": "8aecbc85df68c0d20172cac444f44de90581ed35",
+        "verbs": "retreat",
+        "skeleton_words_clean": "siren retreat",
+        "skeleton_words": "siren retreat",
+        "words": "siren retreat",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "8aedef93aa707ce34fda0c581a1aaeb2734a3d0e": {
+        "oid": "8aedef93aa707ce34fda0c581a1aaeb2734a3d0e",
+        "verbs": "whirr",
+        "skeleton_words_clean": "chainsaw whirr",
+        "skeleton_words": "chainsaw whirr",
+        "words": "chainsaw whirr",
+        "pattern": "s-v",
+        "frequency": 15.0
+    },
+    "8b32ff2f9b8cc17e1ef3636f707056ab067bba21": {
+        "oid": "8b32ff2f9b8cc17e1ef3636f707056ab067bba21",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert other",
+        "skeleton_words": "i alert other",
+        "words": "i alert the other",
+        "pattern": "s-v-o",
+        "frequency": 28.0
+    },
+    "8ba48d4d400217d0360e1c3f239f033726c92093": {
+        "oid": "8ba48d4d400217d0360e1c3f239f033726c92093",
+        "verbs": "exhale",
+        "skeleton_words_clean": "amplified exhale",
+        "skeleton_words": "amplified exhale",
+        "words": "soft amplified exhale",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "8bbb8394406e8cabaca339d8ff1c4273a0ba351e": {
+        "oid": "8bbb8394406e8cabaca339d8ff1c4273a0ba351e",
+        "verbs": "be",
+        "skeleton_words_clean": "from source be",
+        "skeleton_words": "from source they be",
+        "words": "from source they be",
+        "pattern": "s-v-X-o",
+        "frequency": 9.0
+    },
+    "8bd342924f1555ca43d2970bc58818dc5ddac123": {
+        "oid": "8bd342924f1555ca43d2970bc58818dc5ddac123",
+        "verbs": "honk",
+        "skeleton_words_clean": "car honk horn",
+        "skeleton_words": "car honk horn",
+        "words": "car honk horn",
+        "pattern": "s-v-o",
+        "frequency": 60.0
+    },
+    "8bef2502cdde37dff5f77d4c19922a8abd4539d4": {
+        "oid": "8bef2502cdde37dff5f77d4c19922a8abd4539d4",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert other",
+        "skeleton_words": "i alert other",
+        "words": "i will alert the other",
+        "pattern": "s-v-o",
+        "frequency": 23.0
+    },
+    "8c2378111665dcaf7b02a3ec9b1bba582bb41bd5": {
+        "oid": "8c2378111665dcaf7b02a3ec9b1bba582bb41bd5",
+        "verbs": "wail",
+        "skeleton_words_clean": "siren wail",
+        "skeleton_words": "siren wail",
+        "words": "siren wail",
+        "pattern": "s-v",
+        "frequency": 7291.0
+    },
+    "8ca27c7ffde83586c8a968415c56f11cc11f2776": {
+        "oid": "8ca27c7ffde83586c8a968415c56f11cc11f2776",
+        "verbs": "pile",
+        "skeleton_words_clean": "pile",
+        "skeleton_words": "they pile",
+        "words": "they pile up",
+        "pattern": "s-v",
+        "frequency": 141.0
+    },
+    "8dd70f68468caf7898f7693e2a7da766eca7c710": {
+        "oid": "8dd70f68468caf7898f7693e2a7da766eca7c710",
+        "verbs": "be",
+        "skeleton_words_clean": "speech be speech",
+        "skeleton_words": "speech be speech",
+        "words": "free speech be free speech",
+        "pattern": "s-be-a",
+        "frequency": 28.0
+    },
+    "8ec906bee256bcd514b46c13c2af844dc983175a": {
+        "oid": "8ec906bee256bcd514b46c13c2af844dc983175a",
+        "verbs": "like",
+        "skeleton_words_clean": "like crowd",
+        "skeleton_words": "you like crowd",
+        "words": "you do not like large crowd",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "8f198eb622aaf4893cbea9cc95e2bc3974b55c4c": {
+        "oid": "8f198eb622aaf4893cbea9cc95e2bc3974b55c4c",
+        "verbs": "be",
+        "skeleton_words_clean": "be uncertain",
+        "skeleton_words": "he be uncertain",
+        "words": "he be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 260.0
+    },
+    "915bb55c5e67dc797c6a9e6435ff444233bb200e": {
+        "oid": "915bb55c5e67dc797c6a9e6435ff444233bb200e",
+        "verbs": "stop",
+        "skeleton_words_clean": "machinery stop",
+        "skeleton_words": "machinery stop",
+        "words": "machinery stop",
+        "pattern": "s-v",
+        "frequency": 19.0
+    },
+    "92acd9184a29fbb06e26e75aa424f560e91340dc": {
+        "oid": "92acd9184a29fbb06e26e75aa424f560e91340dc",
+        "verbs": "quit",
+        "skeleton_words_clean": "stepan quit whining",
+        "skeleton_words": "stepan quit whining",
+        "words": "stepan quit whining",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "92d4b7aa244cb0e4050ad048ba3e9e57aabd2225": {
+        "oid": "92d4b7aa244cb0e4050ad048ba3e9e57aabd2225",
+        "verbs": "roar",
+        "skeleton_words_clean": "chainsaw roar",
+        "skeleton_words": "chainsaw roar",
+        "words": "chainsaw roar",
+        "pattern": "s-v",
+        "frequency": 14.0
+    },
+    "93d13b99bfc3cd2823504fc96584d6f7e5cd7cca": {
+        "oid": "93d13b99bfc3cd2823504fc96584d6f7e5cd7cca",
+        "verbs": "deactivate",
+        "skeleton_words_clean": "alarm deactivate",
+        "skeleton_words": "alarm deactivate",
+        "words": "car alarm deactivate",
+        "pattern": "s-v",
+        "frequency": 101.0
+    },
+    "95942adf3250cf319b61c03e3f744f9be037f375": {
+        "oid": "95942adf3250cf319b61c03e3f744f9be037f375",
+        "verbs": "grind",
+        "skeleton_words_clean": "engine grind",
+        "skeleton_words": "engine grind",
+        "words": "engine grind",
+        "pattern": "s-v",
+        "frequency": 295.0
+    },
+    "9739f4a535ddb902dca902cb73ea85e464b88897": {
+        "oid": "9739f4a535ddb902dca902cb73ea85e464b88897",
+        "verbs": "continue",
+        "skeleton_words_clean": "jackhammer continue",
+        "skeleton_words": "jackhammer continue",
+        "words": "jackhammer continue",
+        "pattern": "s-v",
+        "frequency": 23.0
+    },
+    "97d659a3099baa2daa2e42e99a7931ee21a6c1b2": {
+        "oid": "97d659a3099baa2daa2e42e99a7931ee21a6c1b2",
+        "verbs": "be",
+        "skeleton_words_clean": "be alert",
+        "skeleton_words": "he be alert",
+        "words": "he be alert",
+        "pattern": "s-be-a",
+        "frequency": 191.0
+    },
+    "97d91f106c608f1ed5a8798aeb4dd79136dad4e6": {
+        "oid": "97d91f106c608f1ed5a8798aeb4dd79136dad4e6",
+        "verbs": "be",
+        "skeleton_words_clean": "impact be unknown",
+        "skeleton_words": "impact be unknown",
+        "words": "impact be unknown",
+        "pattern": "s-be-a",
+        "frequency": 14.0
+    },
+    "99374c9a7d45a022835573dd4354afefdd3f400b": {
+        "oid": "99374c9a7d45a022835573dd4354afefdd3f400b",
+        "verbs": "run",
+        "skeleton_words_clean": "machinery run",
+        "skeleton_words": "machinery run",
+        "words": "machinery run",
+        "pattern": "s-v",
+        "frequency": 22.0
+    },
+    "9979495589c716b726c47ac9ac1270a370efc2ba": {
+        "oid": "9979495589c716b726c47ac9ac1270a370efc2ba",
+        "verbs": "slow",
+        "skeleton_words_clean": "siren slow",
+        "skeleton_words": "siren slow",
+        "words": "siren slow",
+        "pattern": "s-v",
+        "frequency": 17.0
+    },
+    "9b33a64e6c62c1eb726ca25e46b64cb28b46d1c9": {
+        "oid": "9b33a64e6c62c1eb726ca25e46b64cb28b46d1c9",
+        "verbs": "activate",
+        "skeleton_words_clean": "sounding activate",
+        "skeleton_words": "sounding activate",
+        "words": "alarm sounding be now activate",
+        "pattern": "spass-v",
+        "frequency": 7.0
+    },
+    "9b8c357a8c4acffcc15d0d9ea54b9e396704fc1c": {
+        "oid": "9b8c357a8c4acffcc15d0d9ea54b9e396704fc1c",
+        "verbs": "feel",
+        "skeleton_words_clean": "uncertain feel",
+        "skeleton_words": "uncertain feel",
+        "words": "that uncertain feel",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "9c62f736e7587594b97534b49f19f59b7720ab19": {
+        "oid": "9c62f736e7587594b97534b49f19f59b7720ab19",
+        "verbs": "strike",
+        "skeleton_words_clean": "strike sounding",
+        "skeleton_words": "we strike sounding",
+        "words": "we strike sounding",
+        "pattern": "s-v-o",
+        "frequency": 8.0
+    },
+    "9ca894393129d4dd4c435c587a9b038716152a7e": {
+        "oid": "9ca894393129d4dd4c435c587a9b038716152a7e",
+        "verbs": "blare",
+        "skeleton_words_clean": "siren blare",
+        "skeleton_words": "siren blare",
+        "words": "siren blare",
+        "pattern": "s-v",
+        "frequency": 3034.0
+    },
+    "9cfbb33aa175dff043b1a6beac0698c833bd91ea": {
+        "oid": "9cfbb33aa175dff043b1a6beac0698c833bd91ea",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "you beeper go off",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "9d380bd4a5c025ea63d27bd1f1e0015ce1baae75": {
+        "oid": "9d380bd4a5c025ea63d27bd1f1e0015ce1baae75",
+        "verbs": "squat",
+        "skeleton_words_clean": "jackhammer squat",
+        "skeleton_words": "jackhammer squat",
+        "words": "do some jackhammer squat",
+        "pattern": "s-v",
+        "frequency": 12.0
+    },
+    "9d7fc50ff8df1278b60b7b62440b1b4c9063c386": {
+        "oid": "9d7fc50ff8df1278b60b7b62440b1b4c9063c386",
+        "verbs": "strain",
+        "skeleton_words_clean": "machinery strain",
+        "skeleton_words": "machinery strain",
+        "words": "machinery strain",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "9e1f77d15acae724189b489a293fd1d1a552717d": {
+        "oid": "9e1f77d15acae724189b489a293fd1d1a552717d",
+        "verbs": "come",
+        "skeleton_words_clean": "saw come",
+        "skeleton_words": "saw come",
+        "words": "saw come",
+        "pattern": "s-v",
+        "frequency": 9.0
+    },
+    "9e2d21ee6116dd000d2e7e1262104f037096631b": {
+        "oid": "9e2d21ee6116dd000d2e7e1262104f037096631b",
+        "verbs": "build",
+        "skeleton_words_clean": "medium build",
+        "skeleton_words": "medium build",
+        "words": "medium build",
+        "pattern": "s-v",
+        "frequency": 182.0
+    },
+    "a0513b461e0d6441bb751ed835a3366ac4390eb9": {
+        "oid": "a0513b461e0d6441bb751ed835a3366ac4390eb9",
+        "verbs": "^",
+        "skeleton_words_clean": "^ saw",
+        "skeleton_words": "you ^ saw",
+        "words": "you ^ saw",
+        "pattern": "s-v-o",
+        "frequency": 9.0
+    },
+    "a0f3be1899f370117c293a247a608e5129c3dfe7": {
+        "oid": "a0f3be1899f370117c293a247a608e5129c3dfe7",
+        "verbs": "know",
+        "skeleton_words_clean": "know drill",
+        "skeleton_words": "you know drill",
+        "words": "you know the drill",
+        "pattern": "s-v-o",
+        "frequency": 3878.0
+    },
+    "a101ef0e4aaaf48d5c00565489e4c4cdf834cc33": {
+        "oid": "a101ef0e4aaaf48d5c00565489e4c4cdf834cc33",
+        "verbs": "rock",
+        "skeleton_words_clean": "rock",
+        "skeleton_words": "you rock",
+        "words": "you rock",
+        "pattern": "s-v",
+        "frequency": 3690.0
+    },
+    "a2a8f57dc485b09cc80875ff68a3effdddf45e00": {
+        "oid": "a2a8f57dc485b09cc80875ff68a3effdddf45e00",
+        "verbs": "multiplex",
+        "skeleton_words_clean": "signal multiplex",
+        "skeleton_words": "signal multiplex",
+        "words": "station digital signal be multiplex",
+        "pattern": "spass-v",
+        "frequency": 531.0
+    },
+    "a36b3c423300c150349e99d5acfe05ccc2f8c4fe": {
+        "oid": "a36b3c423300c150349e99d5acfe05ccc2f8c4fe",
+        "verbs": "blare",
+        "skeleton_words_clean": "alarm blare",
+        "skeleton_words": "alarm blare",
+        "words": "car alarm blare",
+        "pattern": "s-v",
+        "frequency": 533.0
+    },
+    "a386542fc28e7de12367aadf99a5a2c6d36e8b14": {
+        "oid": "a386542fc28e7de12367aadf99a5a2c6d36e8b14",
+        "verbs": "creak",
+        "skeleton_words_clean": "machinery creak",
+        "skeleton_words": "machinery creak",
+        "words": "machinery creak",
+        "pattern": "s-v",
+        "frequency": 71.0
+    },
+    "a405abc7e780e7f785a1eac9cd6be73bfa4e2c29": {
+        "oid": "a405abc7e780e7f785a1eac9cd6be73bfa4e2c29",
+        "verbs": "clank",
+        "skeleton_words_clean": "machinery clank",
+        "skeleton_words": "machinery clank",
+        "words": "machinery clank",
+        "pattern": "s-v",
+        "frequency": 31.0
+    },
+    "a454233358795aaecac2105cbfb15ccdacaa6d6c": {
+        "oid": "a454233358795aaecac2105cbfb15ccdacaa6d6c",
+        "verbs": "begin",
+        "skeleton_words_clean": "music begin",
+        "skeleton_words": "music begin",
+        "words": "music music music begin",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "a4890d077bfc13c4093a8989eb1c24b2c68639e0": {
+        "oid": "a4890d077bfc13c4093a8989eb1c24b2c68639e0",
+        "verbs": "whoop",
+        "skeleton_words_clean": "alarm whoop",
+        "skeleton_words": "alarm whoop",
+        "words": "car alarm whoop",
+        "pattern": "s-v",
+        "frequency": 16.0
+    },
+    "a49934ffc7532a7d39a6257e31eae8c10807cb50": {
+        "oid": "a49934ffc7532a7d39a6257e31eae8c10807cb50",
+        "verbs": "feel",
+        "skeleton_words_clean": "feel uncertain",
+        "skeleton_words": "you feel uncertain",
+        "words": "you feel uncertain",
+        "pattern": "s-v-a",
+        "frequency": 6.0
+    },
+    "a5060e1d1ee5186a4761742e8ebe305d37811522": {
+        "oid": "a5060e1d1ee5186a4761742e8ebe305d37811522",
+        "verbs": "sound",
+        "skeleton_words_clean": "voice sound",
+        "skeleton_words": "voice sound",
+        "words": "the human voice sound better",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "a5db1a10b1e0fd5a98bb35ab5a2ecbb3c32a748f": {
+        "oid": "a5db1a10b1e0fd5a98bb35ab5a2ecbb3c32a748f",
+        "verbs": "remain",
+        "skeleton_words_clean": "remain stationary",
+        "skeleton_words": "they remain stationary",
+        "words": "they remain stationary",
+        "pattern": "s-v-a",
+        "frequency": 7.0
+    },
+    "a7438107403707e3d9aa115c9f78109aeb57e783": {
+        "oid": "a7438107403707e3d9aa115c9f78109aeb57e783",
+        "verbs": "chirp",
+        "skeleton_words_clean": "siren chirp",
+        "skeleton_words": "siren chirp",
+        "words": "siren chirp",
+        "pattern": "s-v",
+        "frequency": 844.0
+    },
+    "a7e0e2c32a6d7ac8cf18a9eb0f205892d87e45e0": {
+        "oid": "a7e0e2c32a6d7ac8cf18a9eb0f205892d87e45e0",
+        "verbs": "whir",
+        "skeleton_words_clean": "engine whir",
+        "skeleton_words": "engine whir",
+        "words": "engine whir",
+        "pattern": "s-v",
+        "frequency": 161.0
+    },
+    "a90ac3a4843452be680e84406dc021dc2b691c43": {
+        "oid": "a90ac3a4843452be680e84406dc021dc2b691c43",
+        "verbs": "sound",
+        "skeleton_words_clean": "siren sound",
+        "skeleton_words": "siren sound",
+        "words": "siren sound",
+        "pattern": "s-v",
+        "frequency": 151.0
+    },
+    "a964f973d94757d0deaa939faa2bf5c51c46cad6": {
+        "oid": "a964f973d94757d0deaa939faa2bf5c51c46cad6",
+        "verbs": "shout",
+        "skeleton_words_clean": "group shout",
+        "skeleton_words": "group shout",
+        "words": "group shout",
+        "pattern": "s-v",
+        "frequency": 15.0
+    },
+    "a9d221e6d8f6fea40b9d26dc26607389cd70152e": {
+        "oid": "a9d221e6d8f6fea40b9d26dc26607389cd70152e",
+        "verbs": "reverse",
+        "skeleton_words_clean": "reverse",
+        "skeleton_words": "i reverse",
+        "words": "i reverse",
+        "pattern": "s-v",
+        "frequency": 187.0
+    },
+    "a9e0010b9b73bb0d5dd42ff641bdc65a291f1655": {
+        "oid": "a9e0010b9b73bb0d5dd42ff641bdc65a291f1655",
+        "verbs": "blare",
+        "skeleton_words_clean": "horn blare",
+        "skeleton_words": "horn blare",
+        "words": "car horn blare",
+        "pattern": "s-v",
+        "frequency": 810.0
+    },
+    "aad34955cba67ef5010c982605932e8666f27de0": {
+        "oid": "aad34955cba67ef5010c982605932e8666f27de0",
+        "verbs": "have",
+        "skeleton_words_clean": "samson have power",
+        "skeleton_words": "samson have power",
+        "words": "this samson have some unknown power",
+        "pattern": "s-v-o",
+        "frequency": 11.0
+    },
+    "ab2c8f48a7c6ad88e49395c8262edfad992e9e04": {
+        "oid": "ab2c8f48a7c6ad88e49395c8262edfad992e9e04",
+        "verbs": "be",
+        "skeleton_words_clean": "be beeper",
+        "skeleton_words": "be beeper",
+        "words": "here be a beeper",
+        "pattern": "s-v",
+        "frequency": 31.0
+    },
+    "ab7375c9f4ce219ccc27c7386d0ca9753ccd277d": {
+        "oid": "ab7375c9f4ce219ccc27c7386d0ca9753ccd277d",
+        "verbs": "idle",
+        "skeleton_words_clean": "chainsaw idle",
+        "skeleton_words": "chainsaw idle",
+        "words": "chainsaw idle",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "ab96ca9ce8a4ae5b23518ed796018553bbcc2716": {
+        "oid": "ab96ca9ce8a4ae5b23518ed796018553bbcc2716",
+        "verbs": "start",
+        "skeleton_words_clean": "engine start",
+        "skeleton_words": "engine start",
+        "words": "car engine start",
+        "pattern": "s-v",
+        "frequency": 2769.0
+    },
+    "abf031d0a81e511a3217e29fcc2bde399809a47d": {
+        "oid": "abf031d0a81e511a3217e29fcc2bde399809a47d",
+        "verbs": "be",
+        "skeleton_words_clean": "be small",
+        "skeleton_words": "it be small",
+        "words": "it be small",
+        "pattern": "s-be-a",
+        "frequency": 11271.0
+    },
+    "ac84907290e216de7c0d1ce1bd0a8323ef7beeb3": {
+        "oid": "ac84907290e216de7c0d1ce1bd0a8323ef7beeb3",
+        "verbs": "get",
+        "skeleton_words_clean": "engine get engine",
+        "skeleton_words": "engine get engine",
+        "words": "engine get the right engine",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "acc66d782887743dc1f546f1b42a911e5533e039": {
+        "oid": "acc66d782887743dc1f546f1b42a911e5533e039",
+        "verbs": "have",
+        "skeleton_words_clean": "mobile have",
+        "skeleton_words": "mobile have",
+        "words": "mobile have",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "ad49bcd9af3be1e6707511fae46124654dcd681b": {
+        "oid": "ad49bcd9af3be1e6707511fae46124654dcd681b",
+        "verbs": "hear",
+        "skeleton_words_clean": "hear truck",
+        "skeleton_words": "he hear truck",
+        "words": "he hear the ice cream truck",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "ad880eadb2ffafd8c3481cb7b3b61a371524b8da": {
+        "oid": "ad880eadb2ffafd8c3481cb7b3b61a371524b8da",
+        "verbs": "see",
+        "skeleton_words_clean": "'s see",
+        "skeleton_words": "'s see",
+        "words": "'s see",
+        "pattern": "s-v",
+        "frequency": 97749.0
+    },
+    "af39278bc229315ed7f2b05817e9f4e7e9307524": {
+        "oid": "af39278bc229315ed7f2b05817e9f4e7e9307524",
+        "verbs": "be",
+        "skeleton_words_clean": "be truck",
+        "skeleton_words": "it be truck",
+        "words": "it be a ice cream truck",
+        "pattern": "s-be-a",
+        "frequency": 24.0
+    },
+    "af64269065fc4231c4875244268ca8835ec2caa4": {
+        "oid": "af64269065fc4231c4875244268ca8835ec2caa4",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "the beeper go off",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "afcc538805e767e5f31a9be57991ecac64f84f4c": {
+        "oid": "afcc538805e767e5f31a9be57991ecac64f84f4c",
+        "verbs": "hear",
+        "skeleton_words_clean": "hear truck",
+        "skeleton_words": "i hear truck",
+        "words": "i hear the ice cream truck",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "b1256c74fdd7ad8f2f4ff27f2fd3f1adb07ff0d1": {
+        "oid": "b1256c74fdd7ad8f2f4ff27f2fd3f1adb07ff0d1",
+        "verbs": "jackhammer",
+        "skeleton_words_clean": "jackhammer",
+        "skeleton_words": "he jackhammer i",
+        "words": "he jackhammer i",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "b1884d1b5933c3f0da75005d6781e4b112c37603": {
+        "oid": "b1884d1b5933c3f0da75005d6781e4b112c37603",
+        "verbs": "see",
+        "skeleton_words_clean": "see",
+        "skeleton_words": "you see",
+        "words": "you see",
+        "pattern": "s-v",
+        "frequency": 230736.0
+    },
+    "b1900810c842b7312201f62837d9b489fed021e6": {
+        "oid": "b1900810c842b7312201f62837d9b489fed021e6",
+        "verbs": "be",
+        "skeleton_words_clean": "cream be cream",
+        "skeleton_words": "cream be cream",
+        "words": "ice cream be ice cream",
+        "pattern": "s-be-a",
+        "frequency": 12.0
+    },
+    "b268f9f8c6231ffc801bb28dd72ba00dab806a1c": {
+        "oid": "b268f9f8c6231ffc801bb28dd72ba00dab806a1c",
+        "verbs": "buzz",
+        "skeleton_words_clean": "drill buzz",
+        "skeleton_words": "drill buzz",
+        "words": "drill buzz",
+        "pattern": "s-v",
+        "frequency": 77.0
+    },
+    "b3523eac3ec1bb83b406396e0e1e6e40fe8abbc7": {
+        "oid": "b3523eac3ec1bb83b406396e0e1e6e40fe8abbc7",
+        "verbs": "distort",
+        "skeleton_words_clean": "horn distort",
+        "skeleton_words": "horn distort",
+        "words": "car horn distort",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "b3f82fe5404035a6065d40b9957ebf1cc3a9e298": {
+        "oid": "b3f82fe5404035a6065d40b9957ebf1cc3a9e298",
+        "verbs": "stop",
+        "skeleton_words_clean": "saw stop",
+        "skeleton_words": "saw stop",
+        "words": "saw stop",
+        "pattern": "s-v",
+        "frequency": 17.0
+    },
+    "b6b3a12d631d0ca1940e2281fe376e70e983df83": {
+        "oid": "b6b3a12d631d0ca1940e2281fe376e70e983df83",
+        "verbs": "be",
+        "skeleton_words_clean": "truck be",
+        "skeleton_words": "truck be",
+        "words": "ice cream truck be here",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "b894481550854ad1e992cef9aa5a0be3d5e53b35": {
+        "oid": "b894481550854ad1e992cef9aa5a0be3d5e53b35",
+        "verbs": "hoe",
+        "skeleton_words_clean": "hoe",
+        "skeleton_words": "you hoe",
+        "words": "you hoe",
+        "pattern": "s-v",
+        "frequency": 52.0
+    },
+    "b8abf6e9e4716b4b557f0098bfab71ecbe603154": {
+        "oid": "b8abf6e9e4716b4b557f0098bfab71ecbe603154",
+        "verbs": "bark",
+        "skeleton_words_clean": "dog bark",
+        "skeleton_words": "dog bark",
+        "words": "dog bark",
+        "pattern": "s-v",
+        "frequency": 12247.0
+    },
+    "b8c16e5e7725dd733302434f7fd57105284e42cf": {
+        "oid": "b8c16e5e7725dd733302434f7fd57105284e42cf",
+        "verbs": "shut",
+        "skeleton_words_clean": "engine shut",
+        "skeleton_words": "engine shut",
+        "words": "engine shut off",
+        "pattern": "s-v",
+        "frequency": 1971.0
+    },
+    "b8cc1ab9d2c25f25169c1181e2a45c9a49264990": {
+        "oid": "b8cc1ab9d2c25f25169c1181e2a45c9a49264990",
+        "verbs": "gon",
+        "skeleton_words_clean": "hoe gon",
+        "skeleton_words": "hoe gon",
+        "words": "hoe gon",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "b8e804464d4b8e9ee95e3b3b318aefcf1841e74c": {
+        "oid": "b8e804464d4b8e9ee95e3b3b318aefcf1841e74c",
+        "verbs": "be",
+        "skeleton_words_clean": "be crowd",
+        "skeleton_words": "it be crowd",
+        "words": "it be a large crowd",
+        "pattern": "s-be-a",
+        "frequency": 20.0
+    },
+    "b91eca0aa2ef6cb6767e08969e9b007398b97f1a": {
+        "oid": "b91eca0aa2ef6cb6767e08969e9b007398b97f1a",
+        "verbs": "do",
+        "skeleton_words_clean": "barking do",
+        "skeleton_words": "barking you do",
+        "words": "dog barking you can not do",
+        "pattern": "s-v-o",
+        "frequency": 8.0
+    },
+    "b9a3f5a9e27a94a3b7417b07a4ac9901613f1c63": {
+        "oid": "b9a3f5a9e27a94a3b7417b07a4ac9901613f1c63",
+        "verbs": "take",
+        "skeleton_words_clean": "take sounding",
+        "skeleton_words": "i take sounding",
+        "words": "i have take a few sounding",
+        "pattern": "s-v-o",
+        "frequency": 9.0
+    },
+    "bafe766f83f9e74fb57d4c5e3e1e15b4e2707ec3": {
+        "oid": "bafe766f83f9e74fb57d4c5e3e1e15b4e2707ec3",
+        "verbs": "pound",
+        "skeleton_words_clean": "drill pound",
+        "skeleton_words": "drill pound",
+        "words": "drill pound",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "bb761f2de07d6d69b44896e9cb64c1b66cb94c21": {
+        "oid": "bb761f2de07d6d69b44896e9cb64c1b66cb94c21",
+        "verbs": "start",
+        "skeleton_words_clean": "engine start engine",
+        "skeleton_words": "engine start engine",
+        "words": "start the engine start the engine",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "bc3bf0494905461a4e6e9a4ae016de173643b08a": {
+        "oid": "bc3bf0494905461a4e6e9a4ae016de173643b08a",
+        "verbs": "see",
+        "skeleton_words_clean": "see small",
+        "skeleton_words": "i see small",
+        "words": "i see small",
+        "pattern": "s-v-a",
+        "frequency": 7.0
+    },
+    "bc762f09370dd077688707e03568e4d93950a5ac": {
+        "oid": "bc762f09370dd077688707e03568e4d93950a5ac",
+        "verbs": "beget",
+        "skeleton_words_clean": "dog beget dog",
+        "skeleton_words": "dog beget dog",
+        "words": "dog beget dog",
+        "pattern": "s-v-o",
+        "frequency": 25.0
+    },
+    "bd276341caf01bf51c2068715401d69842bff7a8": {
+        "oid": "bd276341caf01bf51c2068715401d69842bff7a8",
+        "verbs": "play",
+        "skeleton_words_clean": "music play",
+        "skeleton_words": "music play",
+        "words": "dance music play",
+        "pattern": "s-v",
+        "frequency": 1884.0
+    },
+    "bd63c441cc03e1d945517adb65e67b393dcdfcc2": {
+        "oid": "bd63c441cc03e1d945517adb65e67b393dcdfcc2",
+        "verbs": "stop",
+        "skeleton_words_clean": "music stop music",
+        "skeleton_words": "music stop music",
+        "words": "music stop music",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "bd837d4eaa390f7a715c955fb70bded06edb3818": {
+        "oid": "bd837d4eaa390f7a715c955fb70bded06edb3818",
+        "verbs": "destroy",
+        "skeleton_words_clean": "human destroy other",
+        "skeleton_words": "human destroy other",
+        "words": "human destroy each other",
+        "pattern": "s-v-o",
+        "frequency": 27.0
+    },
+    "bda732604bbe59cad90284c00dd020a12a83765e": {
+        "oid": "bda732604bbe59cad90284c00dd020a12a83765e",
+        "verbs": "saw",
+        "skeleton_words_clean": "saw",
+        "skeleton_words": "they saw",
+        "words": "they saw",
+        "pattern": "s-v",
+        "frequency": 11.0
+    },
+    "bdde157ad8bd2c5d044fa41eeb20c2b962120ca6": {
+        "oid": "bdde157ad8bd2c5d044fa41eeb20c2b962120ca6",
+        "verbs": "sound",
+        "skeleton_words_clean": "siren sound siren",
+        "skeleton_words": "siren sound siren",
+        "words": "siren sound siren",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "be23eefdccaa8eba7c0366bcebb32aebcee31a31": {
+        "oid": "be23eefdccaa8eba7c0366bcebb32aebcee31a31",
+        "verbs": "be",
+        "skeleton_words_clean": "be source",
+        "skeleton_words": "it be source",
+        "words": "it be a uncertain source",
+        "pattern": "s-be-a",
+        "frequency": 6.0
+    },
+    "be24296fac9f18e14626b384bb1ceddbb5c05fc3": {
+        "oid": "be24296fac9f18e14626b384bb1ceddbb5c05fc3",
+        "verbs": "be",
+        "skeleton_words_clean": "ram be ram",
+        "skeleton_words": "ram be ram",
+        "words": "ram be ram",
+        "pattern": "s-be-a",
+        "frequency": 17.0
+    },
+    "be333e38affc484e4c112e1874c8d1286db970a2": {
+        "oid": "be333e38affc484e4c112e1874c8d1286db970a2",
+        "verbs": "be",
+        "skeleton_words_clean": "speech be speech",
+        "skeleton_words": "speech be speech",
+        "words": "hate speech be not free speech",
+        "pattern": "s-be-a",
+        "frequency": 17.0
+    },
+    "bec986d997de587a216980eef7e04ca78418797b": {
+        "oid": "bec986d997de587a216980eef7e04ca78418797b",
+        "verbs": "have",
+        "skeleton_words_clean": "have speech",
+        "skeleton_words": "i have speech",
+        "words": "i have a speech",
+        "pattern": "s-v-o",
+        "frequency": 236.0
+    },
+    "bf36299b2c2c9bd78c5e0d982e15b3ea5ef85f79": {
+        "oid": "bf36299b2c2c9bd78c5e0d982e15b3ea5ef85f79",
+        "verbs": "play",
+        "skeleton_words_clean": "music play music",
+        "skeleton_words": "music play music",
+        "words": "music rock music play music",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "bf48787555ab504a8409dab1014f1070af5e70d0": {
+        "oid": "bf48787555ab504a8409dab1014f1070af5e70d0",
+        "verbs": "post",
+        "skeleton_words_clean": "post music",
+        "skeleton_words": "you post music",
+        "words": "you be not post music",
+        "pattern": "s-v-o",
+        "frequency": 5413.0
+    },
+    "c0738b9fb63856be8976344a45c52f42a003def0": {
+        "oid": "c0738b9fb63856be8976344a45c52f42a003def0",
+        "verbs": "saw",
+        "skeleton_words_clean": "saw",
+        "skeleton_words": "he saw",
+        "words": "he saw",
+        "pattern": "s-v",
+        "frequency": 42.0
+    },
+    "c078a16442e695fec5b1f0489f799e8be6ca6084": {
+        "oid": "c078a16442e695fec5b1f0489f799e8be6ca6084",
+        "verbs": "be",
+        "skeleton_words_clean": "from lithuania be uncertain",
+        "skeleton_words": "from lithuania that be uncertain",
+        "words": "from lithuania that be uncertain",
+        "pattern": "s-v-a-X-o",
+        "frequency": 11.0
+    },
+    "c0c4fa059377580fdff94bf8cffbae84e9b40661": {
+        "oid": "c0c4fa059377580fdff94bf8cffbae84e9b40661",
+        "verbs": "slur",
+        "skeleton_words_clean": "speech slur",
+        "skeleton_words": "speech slur",
+        "words": "speech slur",
+        "pattern": "s-v",
+        "frequency": 16.0
+    },
+    "c16283daec40745d219f635c6de8c31ec5a30234": {
+        "oid": "c16283daec40745d219f635c6de8c31ec5a30234",
+        "verbs": "roar",
+        "skeleton_words_clean": "drill roar",
+        "skeleton_words": "drill roar",
+        "words": "drill roar",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "c16b0f3be739a0df0019dfc9a21ef013cc7f7976": {
+        "oid": "c16b0f3be739a0df0019dfc9a21ef013cc7f7976",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert",
+        "skeleton_words": "these alert",
+        "words": "these alert",
+        "pattern": "s-v",
+        "frequency": 43.0
+    },
+    "c211e69d62d23d83a8e0b9faa4b16a04419b550b": {
+        "oid": "c211e69d62d23d83a8e0b9faa4b16a04419b550b",
+        "verbs": "be",
+        "skeleton_words_clean": "be stationary",
+        "skeleton_words": "i be stationary",
+        "words": "i be stationary",
+        "pattern": "s-be-a",
+        "frequency": 25.0
+    },
+    "c2c4675ee62c66ec0c75f7762173de6156c48af9": {
+        "oid": "c2c4675ee62c66ec0c75f7762173de6156c48af9",
+        "verbs": "whir",
+        "skeleton_words_clean": "drill whir",
+        "skeleton_words": "drill whir",
+        "words": "drill whir",
+        "pattern": "s-v",
+        "frequency": 282.0
+    },
+    "c428307a589abb4f92d0cbb3a257c7b79475ed90": {
+        "oid": "c428307a589abb4f92d0cbb3a257c7b79475ed90",
+        "verbs": "signal",
+        "skeleton_words_clean": "signal",
+        "skeleton_words": "he signal",
+        "words": "he signal",
+        "pattern": "s-v",
+        "frequency": 162.0
+    },
+    "c5b5d5c1fd9c77847bcd911d1dc7969db21fdc22": {
+        "oid": "c5b5d5c1fd9c77847bcd911d1dc7969db21fdc22",
+        "verbs": "be",
+        "skeleton_words_clean": "name be origin",
+        "skeleton_words": "name be origin",
+        "words": "the name be of uncertain origin",
+        "pattern": "s-be-a",
+        "frequency": 11.0
+    },
+    "c6a8dac6451b623f89057aac198c687516afb20b": {
+        "oid": "c6a8dac6451b623f89057aac198c687516afb20b",
+        "verbs": "be",
+        "skeleton_words_clean": "impact be existent",
+        "skeleton_words": "impact be existent",
+        "words": "the impact be non existent",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "c6e970bdedc8d706a666215d02c4627067fe57cc": {
+        "oid": "c6e970bdedc8d706a666215d02c4627067fe57cc",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "my beeper go off",
+        "pattern": "s-v",
+        "frequency": 23.0
+    },
+    "c72fe68f5edc95bf08aa80b7cdce0b71c4c4a05d": {
+        "oid": "c72fe68f5edc95bf08aa80b7cdce0b71c4c4a05d",
+        "verbs": "be",
+        "skeleton_words_clean": "be stationary",
+        "skeleton_words": "you be stationary",
+        "words": "you be stationary",
+        "pattern": "s-be-a",
+        "frequency": 92.0
+    },
+    "c749fcbfe6cbf2774fe46212d8553c0f9790e125": {
+        "oid": "c749fcbfe6cbf2774fe46212d8553c0f9790e125",
+        "verbs": "be",
+        "skeleton_words_clean": "be dog",
+        "skeleton_words": "it be dog",
+        "words": "it be a dog",
+        "pattern": "s-be-a",
+        "frequency": 1794.0
+    },
+    "c8bc88c3cce9640a751a8b735bad00b94fa443db": {
+        "oid": "c8bc88c3cce9640a751a8b735bad00b94fa443db",
+        "verbs": "!!",
+        "skeleton_words_clean": "dog !!",
+        "skeleton_words": "dog !!",
+        "words": "dog !!",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "c96756a160584033170fef229b92124c62f7f898": {
+        "oid": "c96756a160584033170fef229b92124c62f7f898",
+        "verbs": "be",
+        "skeleton_words_clean": "be engine",
+        "skeleton_words": "it be engine",
+        "words": "it be a small engine",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "c97213b0db45a30e6e1276dfd846ba1f7f657875": {
+        "oid": "c97213b0db45a30e6e1276dfd846ba1f7f657875",
+        "verbs": "whirr",
+        "skeleton_words_clean": "machinery whirr",
+        "skeleton_words": "machinery whirr",
+        "words": "machinery whirr",
+        "pattern": "s-v",
+        "frequency": 25.0
+    },
+    "c981180a5259060d435d5294bead5a047be2862e": {
+        "oid": "c981180a5259060d435d5294bead5a047be2862e",
+        "verbs": "be",
+        "skeleton_words_clean": "future be full of element",
+        "skeleton_words": "future be full of element",
+        "words": "the future be full of uncertain element",
+        "pattern": "s-v-a-X-o",
+        "frequency": 7.0
+    },
+    "ca29bb01b1eaba75b15817dbdf0f80455ea09a98": {
+        "oid": "ca29bb01b1eaba75b15817dbdf0f80455ea09a98",
+        "verbs": "play",
+        "skeleton_words_clean": "jingle play",
+        "skeleton_words": "jingle play",
+        "words": "ice cream truck jingle play",
+        "pattern": "s-v",
+        "frequency": 15.0
+    },
+    "ca64851a3f2392b0f2033ec3ccfa4412d9456487": {
+        "oid": "ca64851a3f2392b0f2033ec3ccfa4412d9456487",
+        "verbs": "shout",
+        "skeleton_words_clean": "men shout",
+        "skeleton_words": "men shout",
+        "words": "men shout",
+        "pattern": "s-v",
+        "frequency": 2690.0
+    },
+    "ca872a347a85d48b17e126fa2c96d4f065ea6333": {
+        "oid": "ca872a347a85d48b17e126fa2c96d4f065ea6333",
+        "verbs": "be",
+        "skeleton_words_clean": "be human",
+        "skeleton_words": "he be human",
+        "words": "he be human",
+        "pattern": "s-be-a",
+        "frequency": 2220.0
+    },
+    "cb5557b5965e361131476828fa7826282e37973e": {
+        "oid": "cb5557b5965e361131476828fa7826282e37973e",
+        "verbs": "gather",
+        "skeleton_words_clean": "crowd gather",
+        "skeleton_words": "crowd gather",
+        "words": "a large crowd gather",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "cc8a54560a98827368e4f6e2bc6e806123ce8f7f": {
+        "oid": "cc8a54560a98827368e4f6e2bc6e806123ce8f7f",
+        "verbs": "reverse",
+        "skeleton_words_clean": "reverse",
+        "skeleton_words": "it reverse",
+        "words": "it reverse",
+        "pattern": "s-v",
+        "frequency": 408.0
+    },
+    "cd2f09b4d2fb7426307c81043795e06afdf3d359": {
+        "oid": "cd2f09b4d2fb7426307c81043795e06afdf3d359",
+        "verbs": "burp",
+        "skeleton_words_clean": "barking burp",
+        "skeleton_words": "barking burp",
+        "words": "puppy barking burp",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "ce7a460bcc1c4341a15c5ee6cccbbb82d1e63a89": {
+        "oid": "ce7a460bcc1c4341a15c5ee6cccbbb82d1e63a89",
+        "verbs": "vibrate",
+        "skeleton_words_clean": "mobile vibrate",
+        "skeleton_words": "mobile vibrate",
+        "words": "mobile vibrate",
+        "pattern": "s-v",
+        "frequency": 25.0
+    },
+    "cf196cd3af4d5f3f123ccca888278ee705d38c05": {
+        "oid": "cf196cd3af4d5f3f123ccca888278ee705d38c05",
+        "verbs": "be",
+        "skeleton_words_clean": "speech be speech",
+        "skeleton_words": "speech be speech",
+        "words": "speech be speech",
+        "pattern": "s-be-a",
+        "frequency": 9.0
+    },
+    "cf33e7d642427bfcdafe24239a13e4a9df6e9745": {
+        "oid": "cf33e7d642427bfcdafe24239a13e4a9df6e9745",
+        "verbs": "chime",
+        "skeleton_words_clean": "alert chime",
+        "skeleton_words": "alert chime",
+        "words": "alert chime",
+        "pattern": "s-v",
+        "frequency": 34.0
+    },
+    "cf4a78dd0c84db6e33ccbbe82d3c1d64e4b55eeb": {
+        "oid": "cf4a78dd0c84db6e33ccbbe82d3c1d64e4b55eeb",
+        "verbs": "go",
+        "skeleton_words_clean": "beeper go",
+        "skeleton_words": "beeper go",
+        "words": "as my beeper go off",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "d00f20faf49fb97315df5d4f3e702e377831702f": {
+        "oid": "d00f20faf49fb97315df5d4f3e702e377831702f",
+        "verbs": "hum",
+        "skeleton_words_clean": "machinery hum",
+        "skeleton_words": "machinery hum",
+        "words": "machinery hum",
+        "pattern": "s-v",
+        "frequency": 104.0
+    },
+    "d15bc7b53681eaa8b8b300e36e1b5d5b4973127c": {
+        "oid": "d15bc7b53681eaa8b8b300e36e1b5d5b4973127c",
+        "verbs": "start",
+        "skeleton_words_clean": "chainsaw start",
+        "skeleton_words": "chainsaw start",
+        "words": "chainsaw start",
+        "pattern": "s-v",
+        "frequency": 27.0
+    },
+    "d15f1a2d04f84aef6c7becca88dd5c915cd6a769": {
+        "oid": "d15f1a2d04f84aef6c7becca88dd5c915cd6a769",
+        "verbs": "continue",
+        "skeleton_words_clean": "music continue",
+        "skeleton_words": "music continue",
+        "words": "music continue",
+        "pattern": "s-v",
+        "frequency": 8144.0
+    },
+    "d1b2e31eb7478953d228d280782a40196b2be864": {
+        "oid": "d1b2e31eb7478953d228d280782a40196b2be864",
+        "verbs": "disappear",
+        "skeleton_words_clean": "voice disappear",
+        "skeleton_words": "voice disappear",
+        "words": "other voice disappear",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "d290af0533b38ab9e08c5b825dfa62eb842cad5c": {
+        "oid": "d290af0533b38ab9e08c5b825dfa62eb842cad5c",
+        "verbs": "compile",
+        "skeleton_words_clean": "compile from source",
+        "skeleton_words": "you compile from source",
+        "words": "you compile from source",
+        "pattern": "s-v-X-o",
+        "frequency": 5.0
+    },
+    "d3aa4c0fbb4c4cdcee2d2e86977ed832507555db": {
+        "oid": "d3aa4c0fbb4c4cdcee2d2e86977ed832507555db",
+        "verbs": "take",
+        "skeleton_words_clean": "'s take sounding",
+        "skeleton_words": "'s take sounding",
+        "words": "'s take some sounding",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "d47a75e21c4f754266a1182f82a1e2e67d18e2a3": {
+        "oid": "d47a75e21c4f754266a1182f82a1e2e67d18e2a3",
+        "verbs": "pile",
+        "skeleton_words_clean": "pile",
+        "skeleton_words": "he pile",
+        "words": "he pile",
+        "pattern": "s-v",
+        "frequency": 11.0
+    },
+    "d48630a945727ee1587153c8cf9e07b16bc9672e": {
+        "oid": "d48630a945727ee1587153c8cf9e07b16bc9672e",
+        "verbs": "be",
+        "skeleton_words_clean": "dog be dog",
+        "skeleton_words": "dog be dog",
+        "words": "you dog be dog",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "d4e848957d176da9b83f982151911deff6638e3e": {
+        "oid": "d4e848957d176da9b83f982151911deff6638e3e",
+        "verbs": "pound",
+        "skeleton_words_clean": "jackhammer pound",
+        "skeleton_words": "jackhammer pound",
+        "words": "jackhammer pound",
+        "pattern": "s-v",
+        "frequency": 58.0
+    },
+    "d55a56cc426a6c260115e9527cb9a5af3ecc3287": {
+        "oid": "d55a56cc426a6c260115e9527cb9a5af3ecc3287",
+        "verbs": "applaud",
+        "skeleton_words_clean": "group applaud",
+        "skeleton_words": "group applaud",
+        "words": "small group applaud",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "d5de3e6b92e9d03d0f22f7fe53170dbd9520cee7": {
+        "oid": "d5de3e6b92e9d03d0f22f7fe53170dbd9520cee7",
+        "verbs": "screech",
+        "skeleton_words_clean": "alarm screech",
+        "skeleton_words": "alarm screech",
+        "words": "car alarm screech",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "d656fb9909897ddc5aa4db91ce234f5841923790": {
+        "oid": "d656fb9909897ddc5aa4db91ce234f5841923790",
+        "verbs": "be",
+        "skeleton_words_clean": "crowd be large",
+        "skeleton_words": "crowd be large",
+        "words": "the crowd be large",
+        "pattern": "s-be-a",
+        "frequency": 52.0
+    },
+    "d69057b348e8720795d558edfa5050ce6a6dd822": {
+        "oid": "d69057b348e8720795d558edfa5050ce6a6dd822",
+        "verbs": "continue",
+        "skeleton_words_clean": "barking continue",
+        "skeleton_words": "barking continue",
+        "words": "barking continue",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "d6da525917c6dbe84fa55f4d254e794a8f92cb0a": {
+        "oid": "d6da525917c6dbe84fa55f4d254e794a8f92cb0a",
+        "verbs": "reverse",
+        "skeleton_words_clean": "role reverse",
+        "skeleton_words": "role reverse",
+        "words": "the role be reverse",
+        "pattern": "spass-v",
+        "frequency": 756.0
+    },
+    "d7201f6cdae5ec7baebd3eca988fb2bdd53fcd70": {
+        "oid": "d7201f6cdae5ec7baebd3eca988fb2bdd53fcd70",
+        "verbs": "be",
+        "skeleton_words_clean": "future be uncertain",
+        "skeleton_words": "future be uncertain",
+        "words": "future be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "d852ebaa4530ddea9880ab81e56ab49a6d42e3cf": {
+        "oid": "d852ebaa4530ddea9880ab81e56ab49a6d42e3cf",
+        "verbs": "be",
+        "skeleton_words_clean": "grebe be small to bird",
+        "skeleton_words": "grebe be small to bird",
+        "words": "grebe be small to medium large diving bird",
+        "pattern": "s-v-a-X-o",
+        "frequency": 7.0
+    },
+    "d8974f66aca1c6b91db53d6ac3008c8d17a53f2f": {
+        "oid": "d8974f66aca1c6b91db53d6ac3008c8d17a53f2f",
+        "verbs": "be",
+        "skeleton_words_clean": "be mobile",
+        "skeleton_words": "it be mobile",
+        "words": "it be mobile",
+        "pattern": "s-be-a",
+        "frequency": 173.0
+    },
+    "d9423969443391644e647d386a574ab79de826bb": {
+        "oid": "d9423969443391644e647d386a574ab79de826bb",
+        "verbs": "give",
+        "skeleton_words_clean": "give speech",
+        "skeleton_words": "he give speech",
+        "words": "he give a speech",
+        "pattern": "s-v-o",
+        "frequency": 175.0
+    },
+    "da4535230fcb9bc48dd19eae704239fc28f60c43": {
+        "oid": "da4535230fcb9bc48dd19eae704239fc28f60c43",
+        "verbs": "play",
+        "skeleton_words_clean": "music play",
+        "skeleton_words": "music play",
+        "words": "ice cream truck music play",
+        "pattern": "s-v",
+        "frequency": 40.0
+    },
+    "db9d6b3ead31a1ca8f3ac5cfe9aeea8f0657f2fb": {
+        "oid": "db9d6b3ead31a1ca8f3ac5cfe9aeea8f0657f2fb",
+        "verbs": "stop",
+        "skeleton_words_clean": "engine stop",
+        "skeleton_words": "engine stop",
+        "words": "engine stop",
+        "pattern": "s-v",
+        "frequency": 2257.0
+    },
+    "dbcd1c2af10609bb5187847a38982581e5d035b0": {
+        "oid": "dbcd1c2af10609bb5187847a38982581e5d035b0",
+        "verbs": "pause",
+        "skeleton_words_clean": "music pause music",
+        "skeleton_words": "music pause music",
+        "words": "music pause music",
+        "pattern": "s-v-o",
+        "frequency": 6.0
+    },
+    "dc4d49aba4acaca368a75962b2d07d1df2771f29": {
+        "oid": "dc4d49aba4acaca368a75962b2d07d1df2771f29",
+        "verbs": "be",
+        "skeleton_words_clean": "be voice",
+        "skeleton_words": "it be voice",
+        "words": "it be human voice",
+        "pattern": "s-be-a",
+        "frequency": 8.0
+    },
+    "dc708537965e2769145e2029b10ab70783a29fcf": {
+        "oid": "dc708537965e2769145e2029b10ab70783a29fcf",
+        "verbs": "take",
+        "skeleton_words_clean": "take sounding",
+        "skeleton_words": "we take sounding",
+        "words": "we have take sounding",
+        "pattern": "s-v-o",
+        "frequency": 9.0
+    },
+    "dd5285294f8128ed40d6deb6ac8f225dd3771ac7": {
+        "oid": "dd5285294f8128ed40d6deb6ac8f225dd3771ac7",
+        "verbs": "roll",
+        "skeleton_words_clean": "roll in music",
+        "skeleton_words": "we roll in music",
+        "words": "we be roll along in the gnome mobile music",
+        "pattern": "s-v-X-o",
+        "frequency": 6.0
+    },
+    "dd7126bd73698c6757b0d0203b07c049ef6d7862": {
+        "oid": "dd7126bd73698c6757b0d0203b07c049ef6d7862",
+        "verbs": "know",
+        "skeleton_words_clean": "know drill",
+        "skeleton_words": "i know drill",
+        "words": "i know the drill",
+        "pattern": "s-v-o",
+        "frequency": 836.0
+    },
+    "dd761394a732031bcf7fd619a9d0b241b698d8ef": {
+        "oid": "dd761394a732031bcf7fd619a9d0b241b698d8ef",
+        "verbs": "be",
+        "skeleton_words_clean": "be uncertain",
+        "skeleton_words": "i be uncertain",
+        "words": "i be uncertain",
+        "pattern": "s-be-a",
+        "frequency": 448.0
+    },
+    "dd9cd255666c476d8617035c7cd78d1ef23a9a17": {
+        "oid": "dd9cd255666c476d8617035c7cd78d1ef23a9a17",
+        "verbs": "say",
+        "skeleton_words_clean": "source say",
+        "skeleton_words": "source say",
+        "words": "source say",
+        "pattern": "s-v",
+        "frequency": 2129.0
+    },
+    "de096291a50d1993f46dd77b0064ec05bd90ecc1": {
+        "oid": "de096291a50d1993f46dd77b0064ec05bd90ecc1",
+        "verbs": "be",
+        "skeleton_words_clean": "portion be large",
+        "skeleton_words": "portion be large",
+        "words": "portion be large",
+        "pattern": "s-be-a",
+        "frequency": 1515.0
+    },
+    "de26ba3671b1ab62c22d7d46dd178685902a79b3": {
+        "oid": "de26ba3671b1ab62c22d7d46dd178685902a79b3",
+        "verbs": "groan",
+        "skeleton_words_clean": "siren groan",
+        "skeleton_words": "siren groan",
+        "words": "siren groan",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "deacb5a620c892253e05db0000181e3e2a6f9bf3": {
+        "oid": "deacb5a620c892253e05db0000181e3e2a6f9bf3",
+        "verbs": "approach",
+        "skeleton_words_clean": "siren approach",
+        "skeleton_words": "siren approach",
+        "words": "siren approach",
+        "pattern": "s-v",
+        "frequency": 387.0
+    },
+    "e1613b81c9260ec10d14fd0547d50bd23744ad24": {
+        "oid": "e1613b81c9260ec10d14fd0547d50bd23744ad24",
+        "verbs": "inhabit",
+        "skeleton_words_clean": "source inhabit",
+        "skeleton_words": "source inhabit",
+        "words": "from its source inhabit",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "e2442559832a2917f39814d574c57887391cb207": {
+        "oid": "e2442559832a2917f39814d574c57887391cb207",
+        "verbs": "pile",
+        "skeleton_words_clean": "pile",
+        "skeleton_words": "we pile",
+        "words": "we pile",
+        "pattern": "s-v",
+        "frequency": 24.0
+    },
+    "e2beb21c31e45cc3356d768fd97450b950afe4f0": {
+        "oid": "e2beb21c31e45cc3356d768fd97450b950afe4f0",
+        "verbs": "stop",
+        "skeleton_words_clean": "truck stop",
+        "skeleton_words": "truck stop",
+        "words": "ice cream truck never stop",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "e46e63982071fe75f718394af1baa8acd44beea5": {
+        "oid": "e46e63982071fe75f718394af1baa8acd44beea5",
+        "verbs": "be",
+        "skeleton_words_clean": "starling be small to bird",
+        "skeleton_words": "starling be small to bird",
+        "words": "starling be small to medium size passerine bird",
+        "pattern": "s-v-a-X-o",
+        "frequency": 200.0
+    },
+    "e55e2e412a2bb822c50d85d16ca5c0d7493b8329": {
+        "oid": "e55e2e412a2bb822c50d85d16ca5c0d7493b8329",
+        "verbs": "hoe",
+        "skeleton_words_clean": "% hoe",
+        "skeleton_words": "% hoe",
+        "words": "% hoe",
+        "pattern": "s-v",
+        "frequency": 9.0
+    },
+    "e5b25b20b8a642fb817e14e85efee30c624d75b0": {
+        "oid": "e5b25b20b8a642fb817e14e85efee30c624d75b0",
+        "verbs": "leave",
+        "skeleton_words_clean": "truck leave",
+        "skeleton_words": "truck leave",
+        "words": "that ice cream truck never leave",
+        "pattern": "s-v",
+        "frequency": 13.0
+    },
+    "e5e8509cef0edca604b59173e8da74fdc8bbf104": {
+        "oid": "e5e8509cef0edca604b59173e8da74fdc8bbf104",
+        "verbs": "pound",
+        "skeleton_words_clean": "driver pound",
+        "skeleton_words": "driver pound",
+        "words": "the pile driver pound away",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "e739905cb420112cd9193624d28c074ca69ebe08": {
+        "oid": "e739905cb420112cd9193624d28c074ca69ebe08",
+        "verbs": "want",
+        "skeleton_words_clean": "want jackhammer",
+        "skeleton_words": "i want jackhammer",
+        "words": "i want a jackhammer",
+        "pattern": "s-v-o",
+        "frequency": 26.0
+    },
+    "e7dbd23a0a937b0ea2d23798e51a4a9b841a7ed4": {
+        "oid": "e7dbd23a0a937b0ea2d23798e51a4a9b841a7ed4",
+        "verbs": "be",
+        "skeleton_words_clean": "be group",
+        "skeleton_words": "we be group",
+        "words": "we be a small group",
+        "pattern": "s-be-a",
+        "frequency": 79.0
+    },
+    "e87d3e668d5c253f248b2148634a3f7ca170434e": {
+        "oid": "e87d3e668d5c253f248b2148634a3f7ca170434e",
+        "verbs": "have",
+        "skeleton_words_clean": "have jackhammer",
+        "skeleton_words": "i have jackhammer",
+        "words": "i do not have a jackhammer",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "ea1155ee529ffa68ed932e1be5bd7c437c60754c": {
+        "oid": "ea1155ee529ffa68ed932e1be5bd7c437c60754c",
+        "verbs": "be",
+        "skeleton_words_clean": "group be small",
+        "skeleton_words": "group be small",
+        "words": "we group be small",
+        "pattern": "s-be-a",
+        "frequency": 15.0
+    },
+    "ea61ad1cc1e1087d723be8334c743a3edccde657": {
+        "oid": "ea61ad1cc1e1087d723be8334c743a3edccde657",
+        "verbs": "hoe",
+        "skeleton_words_clean": "plymouth hoe",
+        "skeleton_words": "plymouth hoe",
+        "words": "plymouth hoe",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "eadcacc1b13737e11b1be77b0fdc770572c9cfe9": {
+        "oid": "eadcacc1b13737e11b1be77b0fdc770572c9cfe9",
+        "verbs": "saw",
+        "skeleton_words_clean": "saw",
+        "skeleton_words": "i saw",
+        "words": "i saw",
+        "pattern": "s-v",
+        "frequency": 79.0
+    },
+    "eb26440fb9ebf00659668b4645b9c6018f1e15d8": {
+        "oid": "eb26440fb9ebf00659668b4645b9c6018f1e15d8",
+        "verbs": "continue",
+        "skeleton_words_clean": "beeper continue",
+        "skeleton_words": "beeper continue",
+        "words": "beeper continue",
+        "pattern": "s-v",
+        "frequency": 7.0
+    },
+    "eb9395a2ce48e4e4c62607cd223f5b156b8f194f": {
+        "oid": "eb9395a2ce48e4e4c62607cd223f5b156b8f194f",
+        "verbs": "restart",
+        "skeleton_words_clean": "engine restart",
+        "skeleton_words": "engine restart",
+        "words": "engine restart",
+        "pattern": "s-v",
+        "frequency": 10.0
+    },
+    "ebe5c759fc99c7eb8466da79cd6c1fd8a1323777": {
+        "oid": "ebe5c759fc99c7eb8466da79cd6c1fd8a1323777",
+        "verbs": "stop",
+        "skeleton_words_clean": "horn stop",
+        "skeleton_words": "horn stop",
+        "words": "car horn stop",
+        "pattern": "s-v",
+        "frequency": 5.0
+    },
+    "ebe89bab033fda84cb66f69b7c5ac2dd1358a27f": {
+        "oid": "ebe89bab033fda84cb66f69b7c5ac2dd1358a27f",
+        "verbs": "play",
+        "skeleton_words_clean": "music play",
+        "skeleton_words": "music play",
+        "words": "theme music play",
+        "pattern": "s-v",
+        "frequency": 1675.0
+    },
+    "edd2fc10bc11a822e8370a4756071a4922abf40c": {
+        "oid": "edd2fc10bc11a822e8370a4756071a4922abf40c",
+        "verbs": "keep shout",
+        "skeleton_words_clean": "group keep shout",
+        "skeleton_words": "group keep shout",
+        "words": "the group keep shout",
+        "pattern": "s-v-v",
+        "frequency": 6.0
+    },
+    "ee7b987e52c6bce5e9a9619675754f094d2ba2a8": {
+        "oid": "ee7b987e52c6bce5e9a9619675754f094d2ba2a8",
+        "verbs": "alert",
+        "skeleton_words_clean": "amber alert",
+        "skeleton_words": "amber alert",
+        "words": "amber alert",
+        "pattern": "s-v",
+        "frequency": 34.0
+    },
+    "ef05923f5d686c8bd21da8bc7f900774da156e73": {
+        "oid": "ef05923f5d686c8bd21da8bc7f900774da156e73",
+        "verbs": "gon be",
+        "skeleton_words_clean": "gon be driver",
+        "skeleton_words": "it gon be driver",
+        "words": "it be gon na be a pile driver",
+        "pattern": "s-v-be-o",
+        "frequency": 14.0
+    },
+    "ef811261ef22ebaea6d95d9a653c509748297749": {
+        "oid": "ef811261ef22ebaea6d95d9a653c509748297749",
+        "verbs": "alert wail",
+        "skeleton_words_clean": "alert wail",
+        "skeleton_words": "alert wail",
+        "words": "alert wail",
+        "pattern": "s-v",
+        "frequency": 17.0
+    },
+    "efb1d120f0d275794c6da28633523858e11bf790": {
+        "oid": "efb1d120f0d275794c6da28633523858e11bf790",
+        "verbs": "let",
+        "skeleton_words_clean": "mobile let",
+        "skeleton_words": "mobile let",
+        "words": "mobile let",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "f02d7b542b817464191fb360715a535133f3be84": {
+        "oid": "f02d7b542b817464191fb360715a535133f3be84",
+        "verbs": "have",
+        "skeleton_words_clean": "have sounding",
+        "skeleton_words": "we have sounding",
+        "words": "we have sounding",
+        "pattern": "s-v-o",
+        "frequency": 5.0
+    },
+    "f0533f27d98d9cfff360c4e734fda5cc663b51e0": {
+        "oid": "f0533f27d98d9cfff360c4e734fda5cc663b51e0",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert other",
+        "skeleton_words": "he alert other",
+        "words": "he will alert the other",
+        "pattern": "s-v-o",
+        "frequency": 12.0
+    },
+    "f0e511cfdd230b777ea5efda782512fbbf64395a": {
+        "oid": "f0e511cfdd230b777ea5efda782512fbbf64395a",
+        "verbs": "stop",
+        "skeleton_words_clean": "siren stop",
+        "skeleton_words": "siren stop",
+        "words": "siren stop",
+        "pattern": "s-v",
+        "frequency": 576.0
+    },
+    "f126ce594073750afb6161ad5a43f01de8698018": {
+        "oid": "f126ce594073750afb6161ad5a43f01de8698018",
+        "verbs": "rock",
+        "skeleton_words_clean": "trebuchet rock rock",
+        "skeleton_words": "trebuchet rock rock",
+        "words": "trebuchet rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock trebuchet rock trebuchets rock",
+        "pattern": "s-v-o",
+        "frequency": 128.0
+    },
+    "f1a21ba46413ff208a5e0e4cbd6193566f31cd75": {
+        "oid": "f1a21ba46413ff208a5e0e4cbd6193566f31cd75",
+        "verbs": "sound",
+        "skeleton_words_clean": "alarm sound",
+        "skeleton_words": "alarm sound",
+        "words": "car alarm sound",
+        "pattern": "s-v",
+        "frequency": 156.0
+    },
+    "f1c36d6f080558727b9d57140a6adaafaf241227": {
+        "oid": "f1c36d6f080558727b9d57140a6adaafaf241227",
+        "verbs": "mean",
+        "skeleton_words_clean": "speech mean",
+        "skeleton_words": "speech mean",
+        "words": "free speech mean",
+        "pattern": "s-v",
+        "frequency": 72.0
+    },
+    "f362e379c4f2dc3e567526b67270aed97091ff2f": {
+        "oid": "f362e379c4f2dc3e567526b67270aed97091ff2f",
+        "verbs": "rumble",
+        "skeleton_words_clean": "engine rumble",
+        "skeleton_words": "engine rumble",
+        "words": "engine rumble",
+        "pattern": "s-v",
+        "frequency": 967.0
+    },
+    "f45c38c140562c069e0b2d2d36b0fe927b83b870": {
+        "oid": "f45c38c140562c069e0b2d2d36b0fe927b83b870",
+        "verbs": "be",
+        "skeleton_words_clean": "be mobile",
+        "skeleton_words": "you be mobile",
+        "words": "you be on mobile",
+        "pattern": "s-be-a",
+        "frequency": 1478.0
+    },
+    "f79983fcc8a300dee4e0f9e9dc2e1f2e3c1cda05": {
+        "oid": "f79983fcc8a300dee4e0f9e9dc2e1f2e3c1cda05",
+        "verbs": "be",
+        "skeleton_words_clean": "engine be engine",
+        "skeleton_words": "engine be engine",
+        "words": "a warm engine be a happy engine",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "f7a42b422ecb2e1c19c87754e08c0faff6520a35": {
+        "oid": "f7a42b422ecb2e1c19c87754e08c0faff6520a35",
+        "verbs": "get",
+        "skeleton_words_clean": "get sounding",
+        "skeleton_words": "i get sounding",
+        "words": "i get the sounding",
+        "pattern": "s-v-o",
+        "frequency": 7.0
+    },
+    "f7df4b9abea14294f09033c1872f1b44510f57f4": {
+        "oid": "f7df4b9abea14294f09033c1872f1b44510f57f4",
+        "verbs": "'cause",
+        "skeleton_words_clean": "talk 'cause",
+        "skeleton_words": "talk 'cause",
+        "words": "small talk 'cause",
+        "pattern": "s-v",
+        "frequency": 8.0
+    },
+    "f8526a0ef93ec71f9cd56a3a54852fa6f970589a": {
+        "oid": "f8526a0ef93ec71f9cd56a3a54852fa6f970589a",
+        "verbs": "hum",
+        "skeleton_words_clean": "chainsaw hum",
+        "skeleton_words": "chainsaw hum",
+        "words": "chainsaw hum",
+        "pattern": "s-v",
+        "frequency": 6.0
+    },
+    "f8a9a617dac56c6396ff878b5a73fabde825848e": {
+        "oid": "f8a9a617dac56c6396ff878b5a73fabde825848e",
+        "verbs": "be",
+        "skeleton_words_clean": "hoe be hoe",
+        "skeleton_words": "hoe be hoe",
+        "words": "hoe will be hoe",
+        "pattern": "s-be-a",
+        "frequency": 5.0
+    },
+    "f8d853e27475d4599a58255a6c896847ad76e737": {
+        "oid": "f8d853e27475d4599a58255a6c896847ad76e737",
+        "verbs": "grind",
+        "skeleton_words_clean": "saw grind",
+        "skeleton_words": "saw grind",
+        "words": "saw grind",
+        "pattern": "s-v",
+        "frequency": 14.0
+    },
+    "f92ab15ba4551ae468348c722884103119ad8f96": {
+        "oid": "f92ab15ba4551ae468348c722884103119ad8f96",
+        "verbs": "sound",
+        "skeleton_words_clean": "beeper sound",
+        "skeleton_words": "beeper sound",
+        "words": "beeper sound",
+        "pattern": "s-v",
+        "frequency": 13.0
+    },
+    "f9594f5c1f5238f37a23a2ed58897d53adb63986": {
+        "oid": "f9594f5c1f5238f37a23a2ed58897d53adb63986",
+        "verbs": "come",
+        "skeleton_words_clean": "other come unknown",
+        "skeleton_words": "other come unknown",
+        "words": "the other come back unknown",
+        "pattern": "s-v-a",
+        "frequency": 5.0
+    },
+    "f95c68254d53e73e56cb45180aa25440e8cfd5d7": {
+        "oid": "f95c68254d53e73e56cb45180aa25440e8cfd5d7",
+        "verbs": "be",
+        "skeleton_words_clean": "power be",
+        "skeleton_words": "power be",
+        "words": "other power be",
+        "pattern": "s-v",
+        "frequency": 22.0
+    },
+    "fa4bdd2035fd7376ba90f24f657408ef755e4c49": {
+        "oid": "fa4bdd2035fd7376ba90f24f657408ef755e4c49",
+        "verbs": "be",
+        "skeleton_words_clean": "be small to medium",
+        "skeleton_words": "they be small to medium",
+        "words": "they be small to medium",
+        "pattern": "s-v-a-X-o",
+        "frequency": 6.0
+    },
+    "faa21335f9149004ec80713b1306be909bfa5885": {
+        "oid": "faa21335f9149004ec80713b1306be909bfa5885",
+        "verbs": "toot",
+        "skeleton_words_clean": "horn toot",
+        "skeleton_words": "horn toot",
+        "words": "car horn toot",
+        "pattern": "s-v",
+        "frequency": 20.0
+    },
+    "fb0be01284b9c91f398fc7ea0adb05b1499cdaa2": {
+        "oid": "fb0be01284b9c91f398fc7ea0adb05b1499cdaa2",
+        "verbs": "hear",
+        "skeleton_words_clean": "hear voice",
+        "skeleton_words": "i hear voice",
+        "words": "i hear voice",
+        "pattern": "s-v-o",
+        "frequency": 1585.0
+    },
+    "fbc7e423332d7472c2ccd0cf7aa72af493011564": {
+        "oid": "fbc7e423332d7472c2ccd0cf7aa72af493011564",
+        "verbs": "see",
+        "skeleton_words_clean": "saw see",
+        "skeleton_words": "saw see",
+        "words": "saw see",
+        "pattern": "s-v",
+        "frequency": 12.0
+    },
+    "fc06ec160439f15a62cc97ecd835d0814e8374fd": {
+        "oid": "fc06ec160439f15a62cc97ecd835d0814e8374fd",
+        "verbs": "alert",
+        "skeleton_words_clean": "alert",
+        "skeleton_words": "i alert",
+        "words": "i alert",
+        "pattern": "s-v",
+        "frequency": 40.0
+    },
+    "fd90198bfbc7886b3532b2609c10da502d29329f": {
+        "oid": "fd90198bfbc7886b3532b2609c10da502d29329f",
+        "verbs": "be",
+        "skeleton_words_clean": "be mobile",
+        "skeleton_words": "i be mobile",
+        "words": "i be on mobile",
+        "pattern": "s-be-a",
+        "frequency": 3833.0
+    },
+    "fea341806d0498f8960cc657768b0ad907415b8c": {
+        "oid": "fea341806d0498f8960cc657768b0ad907415b8c",
+        "verbs": "grind",
+        "skeleton_words_clean": "machinery grind",
+        "skeleton_words": "machinery grind",
+        "words": "machinery grind",
+        "pattern": "s-v",
+        "frequency": 22.0
+    },
+    "feecad6baeb8a6259f947fd9a14f13d8056a208a": {
+        "oid": "feecad6baeb8a6259f947fd9a14f13d8056a208a",
+        "verbs": "reverse",
+        "skeleton_words_clean": "reverse reverse",
+        "skeleton_words": "reverse reverse",
+        "words": "reverse reverse",
+        "pattern": "s-v",
+        "frequency": 5.0
+    }
+}

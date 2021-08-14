@@ -1,0 +1,113 @@
+{
+    "1_engine": [
+        "engine"
+    ],
+    "2_machinery-impact": [
+        "machinery impact"
+    ],
+    "3_non-machinery-impact": [
+        "non machinery impact"
+    ],
+    "4_powered-saw": [
+        "power saw"
+    ],
+    "5_alert-signal": [
+        "alert signal"
+    ],
+    "6_music": [
+        "music"
+    ],
+    "7_human-voice": [
+        "human voice"
+    ],
+    "8_dog": [
+        "dog"
+    ],
+    "1-1_small-sounding-engine": [
+        "small sounding engine"
+    ],
+    "1-2_medium-sounding-engine": [
+        "medium sounding engine"
+    ],
+    "1-3_large-sounding-engine": [
+        "large sounding engine"
+    ],
+    "1-X_engine-of-uncertain-size": [
+        "engine of uncertain size"
+    ],
+    "2-1_rock-drill": [
+        "rock drill"
+    ],
+    "2-2_jackhammer": [
+        "jackhammer"
+    ],
+    "2-3_hoe-ram": [
+        "hoe ram"
+    ],
+    "2-4_pile-driver": [
+        "pile driver"
+    ],
+    "2-X_other-unknown-impact-machinery": [
+        "other unknown impact machinery"
+    ],
+    "3-1_non-machinery-impact": [
+        "non machinery impact"
+    ],
+    "4-1_chainsaw": [
+        "chainsaw"
+    ],
+    "4-2_small-medium-rotating-saw": [
+        "small medium rotating see"
+    ],
+    "4-3_large-rotating-saw": [
+        "large rotating saw"
+    ],
+    "4-X_other-unknown-powered-saw": [
+        "other unknown power saw"
+    ],
+    "5-1_car-horn": [
+        "car horn"
+    ],
+    "5-2_car-alarm": [
+        "car alarm"
+    ],
+    "5-3_siren": [
+        "siren"
+    ],
+    "5-4_reverse-beeper": [
+        "reverse beeper"
+    ],
+    "5-X_other-unknown-alert-signal": [
+        "other unknown alert signal"
+    ],
+    "6-1_stationary-music": [
+        "stationary music"
+    ],
+    "6-2_mobile-music": [
+        "mobile music"
+    ],
+    "6-3_ice-cream-truck": [
+        "ice cream truck"
+    ],
+    "6-X_music-from-uncertain-source": [
+        "music from uncertain source"
+    ],
+    "7-1_person-or-small-group-talking": [
+        "person or small group talk"
+    ],
+    "7-2_person-or-small-group-shouting": [
+        "person or small group shout"
+    ],
+    "7-3_large-crowd": [
+        "large crowd"
+    ],
+    "7-4_amplified-speech": [
+        "amplified speech"
+    ],
+    "7-X_other-unknown-human-voice": [
+        "other unknown human voice"
+    ],
+    "8-1_dog-barking-whining": [
+        "dog barking whining"
+    ]
+}
