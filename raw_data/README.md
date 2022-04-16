@@ -18,3 +18,25 @@ Here we provide the processed data and the code for the processing (the resultin
     - ontology.json: the original AudioSet ontology
     - adjusted_ontology_exp: the adjusted AudioSet ontology along with the expanded queries
     - audio_id2aser_id_freqs_sel.json: a json with audioset id as key and list of (aser_id, frequency in ASER) as value. The frequency is used to filter out infrequent events and weigh the ES search.
+    - extracted_audioset_rels_sel.json
+      - The enhanced audioset ontology with the corresponing ASER clues, the format is like
+
+```json
+"/m/01j423-/m/09x0r": {
+    "aser_clues": [
+        [
+            "d8c43751d4639f2d49106b3232beb25c8181e4ad",
+            "b273936fe507b1c7a45a770554ad5d8528617a79"
+        ],
+        [
+            "d8c43751d4639f2d49106b3232beb25c8181e4ad",
+            "e826249bc69b91297e638d6e097dae1d670ad195"
+        ]
+    ],
+    "name1": "Yawn",
+    "name2": "Speech",
+    "Precedence": 2.0,
+    "Co_Occurrence": 4.0
+}
+```
+where the key is a pair of AudioSet event id, `aser_clues` is the list of ASER event-pairs which supports the enhanced link between the AudioSet events. `name1` and `name2` is the name of the AudioSet events, the remaining keys like `Co_Occurrence` are ASER relation types and the cumulative strength according to all `aser_clues`.
